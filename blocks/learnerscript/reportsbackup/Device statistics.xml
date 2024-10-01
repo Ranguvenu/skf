@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Device statistics]]></name>
+<summary><![CDATA[This report provides you with the stats about devices used to access the LMS – mobile, tablet, and desktop.]]></summary>
+<type><![CDATA[sql]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJEZXZpY2Urc3RhdGlzdGljcyIsInR5cGUiOiJzcWwiLCJxdWVyeXNxbCI6IlNFTEVDVCtkZXZpY2V0eXBlJTJDY291bnQlMjh1c2VyaWQlMjkrYXMrbnVtYmVyb2Z1c2VycytGUk9NK3ByZWZpeF9ibG9ja19kZXZpY2VscyUwRCUwQVdIRVJFKyUwRCUwQTErJTNEKzErQU5EK2RldmljZXR5cGUrJTIxJTNEKyUyNyslMjclMEQlMEFBTkQrdGltZW1vZGlmaWVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1JTBEJTBBJTI1JTI1U0VBUkNIJTNBZGV2aWNldHlwZSUyNSUyNSUwRCUwQStHUk9VUCtCWStkZXZpY2V0eXBlK09SREVSK0JZK251bWJlcm9mdXNlcnMrREVTQyIsImRlc2NyaXB0aW9uIjp7InRleHQiOiJUaGlzK3JlcG9ydCtwcm92aWRlcyt5b3Urd2l0aCt0aGUrc3RhdHMrYWJvdXQrZGV2aWNlcyt1c2VkK3RvK2FjY2Vzcyt0aGUrTE1TKyVFMiU4MCU5Myttb2JpbGUlMkMrdGFibGV0JTJDK2FuZCtkZXNrdG9wLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImlkIjozNSwiY291cnNlaWQiOjEsIm1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjowLCJzdWJtaXRidXR0b24iOiJOZXh0IiwiZGlzYWJsZXRhYmxlIjowLCJzdW1tYXJ5IjoiVGhpcytyZXBvcnQrcHJvdmlkZXMreW91K3dpdGgrdGhlK3N0YXRzK2Fib3V0K2RldmljZXMrdXNlZCt0bythY2Nlc3MrdGhlK0xNUyslRTIlODAlOTMrbW9iaWxlJTJDK3RhYmxldCUyQythbmQrZGVza3RvcC4ifX0sImNvbHVtbnMiOnsiZWxlbWVudHMiOlt7ImlkIjoiSzhEeDBnVnRlWGpTVkdIIiwicGx1Z2lubmFtZSI6InNxbCIsInBsdWdpbmZ1bGxuYW1lIjoiU1FMIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoiRGV2aWNldHlwZSIsImNvbHVtbiI6ImRldmljZXR5cGUiLCJoZWFkaW5nIjoiIiwid3JhcCI6IiIsImFsaWduIjoiIiwic2l6ZSI6IiJ9fSx7ImlkIjoiVjYwb0JBbXo3VEZPblllIiwicGx1Z2lubmFtZSI6InNxbCIsInBsdWdpbmZ1bGxuYW1lIjoiU1FMIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoiTnVtYmVyK29mK3ZpZXdzIiwiY29sdW1uIjoibnVtYmVyb2Z1c2VycyIsImhlYWRpbmciOiIiLCJ3cmFwIjoiIiwiYWxpZ24iOiJjZW50ZXIiLCJzaXplIjoiIn19XX0sImZpbHRlcnMiOnsiZWxlbWVudHMiOltdfSwiY2FsY3VsYXRpb25zIjp7ImVsZW1lbnRzIjpudWxsfSwib3JkZXJpbmciOnsiZWxlbWVudHMiOm51bGx9LCJwbG90Ijp7ImVsZW1lbnRzIjpbeyJpZCI6IlZhVkJpOWZIOXRtc2pNYSIsImZvcm1kYXRhIjp7ImNoYXJ0bmFtZSI6IkRldmljZStTdGF0cyIsImFyZWFuYW1lIjoiZGV2aWNldHlwZSIsImFyZWF2YWx1ZSI6Im51bWJlcm9mdXNlcnMiLCJzZXJpZXNsYWJlbCI6IiIsInNob3dsZWdlbmQiOiIwIiwiZGF0YWxhYmVscyI6IjAiLCJjb2x1bW5zb3J0IjoiZGV2aWNldHlwZSIsInNvcnRpbmciOiIiLCJsaW1pdCI6IiIsImlkIjoiVmFWQmk5Zkg5dG1zak1hIn0sInBsdWdpbm5hbWUiOiJwaWUiLCJwbHVnaW5mdWxsbmFtZSI6IlBpZSIsInN1bW1hcnkiOiJBK3BpZStncmFwaCJ9XX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Geographical]]></subpagepattern>
+<defaultregion><![CDATA[side-db-two]]></defaultregion>
+<defaultweight><![CDATA[1]]></defaultweight>
+<timecreated><![CDATA[1718790054]]></timecreated>
+<timemodified><![CDATA[1718790054]]></timemodified>
+<title><![CDATA[Device statistics]]></title>
+<reportcontenttype><![CDATA[VaVBi9fH9tmsjMa]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[12445f]]></tilescolourpicker>
+<disableheader><![CDATA[0]]></disableheader>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Geographical]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[reports-db-two]]></region>
+<weight><![CDATA[1]]></weight>
+</position></report>

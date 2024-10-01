@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Monthly Sessions]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[monthlysessions]]></type>
+<components><![CDATA[eyJjb2x1bW5zIjp7ImVsZW1lbnRzIjpbeyJpZCI6IlFkRWtnazNweTc3bnh4dCIsInBsdWdpbm5hbWUiOiJtb250aGx5c2Vzc2lvbnMiLCJwbHVnaW5mdWxsbmFtZSI6Ik1vbnRobHkrc2Vzc2lvbnMrY29sdW1ucyIsInN1bW1hcnkiOiIiLCJ0eXBlIjoic2VsZWN0ZWRjb2x1bW5zIiwiZm9ybWRhdGEiOnsidmFsdWUiOnRydWUsImNvbHVtbmFtZSI6Ik1vbnRoIiwiY29sdW1uIjoibW9udGgiLCJoZWFkaW5nIjoibW9udGhseXNlc3Npb25zIiwiYWxpZ24iOiJsZWZ0In19LHsiaWQiOiJxTXk3bXZGQ09vZGY1NnoiLCJwbHVnaW5uYW1lIjoibW9udGhseXNlc3Npb25zIiwicGx1Z2luZnVsbG5hbWUiOiJNb250aGx5K3Nlc3Npb25zK2NvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJTZXNzaW9uQ291bnQiLCJjb2x1bW4iOiJzZXNzaW9uc2NvdW50IiwiaGVhZGluZyI6Im1vbnRobHlzZXNzaW9ucyIsImFsaWduIjoiY2VudGVyIn19LHsiaWQiOiJWa1J6TDNUYjlYOUZ5dnQiLCJwbHVnaW5uYW1lIjoibW9udGhseXNlc3Npb25zIiwicGx1Z2luZnVsbG5hbWUiOiJNb250aGx5K3Nlc3Npb25zK2NvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJUaW1lU3BlbnQiLCJjb2x1bW4iOiJ0aW1lc3BlbnQiLCJoZWFkaW5nIjoibW9udGhseXNlc3Npb25zIiwiYWxpZ24iOiJsZWZ0In19XX0sImZpbHRlcnMiOnsiZWxlbWVudHMiOltdfSwiY2FsY3VsYXRpb25zIjp7ImVsZW1lbnRzIjpudWxsfSwib3JkZXJpbmciOnsiZWxlbWVudHMiOm51bGx9LCJwbG90Ijp7ImVsZW1lbnRzIjpbeyJpZCI6IjhwYk5VUnBSTnU3UzFRQSIsImZvcm1kYXRhIjp7ImNoYXJ0bmFtZSI6Ik1vbnRobHkrc2Vzc2lvbnMiLCJzZXJpZWlkIjoibW9udGgiLCJ5YXhpcyI6WyJzZXNzaW9uc2NvdW50Il0sInNob3dsZWdlbmQiOiIwIiwiZGF0YWxhYmVscyI6IjAiLCJjYWxjcyI6IiIsImNvbHVtbnNvcnQiOiJtb250aCIsInNvcnRpbmciOiIiLCJsaW1pdCI6IiIsImlkIjoiOHBiTlVScFJOdTdTMVFBIn0sInBsdWdpbm5hbWUiOiJsaW5lIiwicGx1Z2luZnVsbG5hbWUiOiJCYXIiLCJzdW1tYXJ5IjoiQStiYXIrZ3JhcGgrd2l0aCttdWx0aXBsZStzZXJpZXMrb2YrZGF0YSJ9XX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Timespent]]></subpagepattern>
+<defaultregion><![CDATA[side-db-two]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1718790074]]></timecreated>
+<timemodified><![CDATA[1718790074]]></timemodified>
+<title><![CDATA[Monthly Sessions]]></title>
+<reportcontenttype><![CDATA[8pbNURpRNu7S1QA]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[12445f]]></tilescolourpicker>
+<disableheader><![CDATA[1]]></disableheader>
+<reportduration><![CDATA[all]]></reportduration>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>

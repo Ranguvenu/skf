@@ -1,0 +1,56 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_learnerscript/plotconditions
+
+    Describe the enable / disable options for reports in managereports page.
+
+    Example context (json):
+    {
+    }
+}}
+<div id="fitem_id_{{column.name}}" class="form-group row fitem">
+    <div class="col-md-3">
+        <span class="float-sm-right text-nowrap">
+        </span>
+
+    </div>
+    <div class="col-md-9 form-inline felement" data-fieldtype="select">
+    <span class="col-md-4">
+        <label class="col-form-label d-inline " id="id_calcs">
+            {{column.name}}
+        </label>
+    </span>
+    <span class="col-md-8">
+        {{#column.name}}
+        <select class="custom-select" name="{{column.name}}" id="id_{{column.name}}" {{#column.disabled}}disabled{{/column.disabled}}>
+            <option value="">{{#str}}selectall, block_reportdashboard{{/str}}</option>
+            {{#column.conditionsymbols}}
+                <option value="{{value}}" {{#selected}}selected{{/selected}}>{{value}}</option>
+            {{/column.conditionsymbols}}
+        </select>
+        {{/column.name}}
+            <input type="text" class="form-control disablecondition" name="{{column.name}}_value" id="id_{{column.name}}_value" value="{{column.value}}" aria-invalid="true" {{#column.disabled}}disabled{{/column.disabled}}><span class="disableplotc">
+         {{#column.disabled}}
+            <i class="fa fa-eye-slash" aria-hidden="true"  title="{{#str}}enable{{/str}}"></i></span>
+         {{/column.disabled}}
+        {{^column.disabled}}
+            <i class="fa fa-eye" aria-hidden="true" title="{{#str}}disable{{/str}}"></i></span>
+         {{/column.disabled}}
+    </span>
+    </div>
+</div>

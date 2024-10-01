@@ -1,0 +1,67 @@
+{
+  "name": "user_tour_view_report,block_learnerscript",
+  "description": "user_tour_view_report_desc,block_learnerscript",
+  "pathmatch": "/blocks/learnerscript/viewreport.php%",
+  "enabled": "1",
+  "sortorder": "4",
+  "configdata": "{\"placement\":\"top\",\"orphan\":\"0\",\"backdrop\":\"0\",\"reflex\":\"0\",\"filtervalues\":{\"role\":[],\"theme\":[]},\"majorupdatetime\":1520828422}",
+  "version": "2017051500",
+  "steps": [
+    {
+      "title": "user_tour_view_report_heading,block_learnerscript",
+      "content": "user_tour_view_report_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_view",
+      "sortorder": "0",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_view_report_design,block_learnerscript",
+      "content": "user_tour_view_report_design_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_design",
+      "sortorder": "1",
+      "configdata": "{}"
+    },
+    {
+      "title":  "user_tour_view_report_permissions,block_learnerscript",
+      "content": "user_tour_view_report_permissions_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_permissions",
+      "sortorder": "2",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_view_report_edit,block_learnerscript",
+      "content": "user_tour_view_report_edit_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_edit",
+      "sortorder": "3",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_view_report_schedule,block_learnerscript",
+      "content": "user_tour_view_report_schedule_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_schedule",
+      "sortorder": "4",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_view_report_graph_title,block_learnerscript",
+      "content": "user_tour_view_report_graph_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_graph",
+      "sortorder": "5",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_switch_report_title,block_learnerscript",
+      "content": "user_tour_switch_report_desc,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#custom_jumpto",
+      "sortorder": "6",
+      "configdata": "{}"
+    }
+  ]
+}

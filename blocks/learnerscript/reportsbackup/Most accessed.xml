@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Most accessed]]></name>
+<summary><![CDATA[Device type: The device from which you get a greater number of visits to your LMS site, within a timeline.
+Total: The total number of accesses corresponding to the device (the most accessed device), within a timeline.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJNb3N0K2FjY2Vzc2VkIiwidHlwZSI6InN0YXRpc3RpY3MiLCJxdWVyeXNxbCI6IlNFTEVDVCtkLmRldmljZXR5cGUlMkMrZC5udW1iZXJvZnVzZXJzK0FTKyUyMk5vLit1c2VycyUyMisrRlJPTSslMjhTRUxFQ1QrJTI1JTI1VE9QJTI1JTI1K2RldmljZXR5cGUlMkMrQ09VTlQlMjhESVNUSU5DVCt1c2VyaWQlMjkrQVMrbnVtYmVyb2Z1c2VycytGUk9NK3ByZWZpeF9ibG9ja19kZXZpY2VscyUwRCUwQVdIRVJFKzErJTNEKzElMEQlMEFBTkQrdGltZW1vZGlmaWVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1JTBEJTBBJTI1JTI1U0VBUkNIJTNBZGV2aWNldHlwZSUyNSUyNSUwRCUwQStHUk9VUCtCWStkZXZpY2V0eXBlK09SREVSK0JZK251bWJlcm9mdXNlcnMrREVTQyslMjUlMjVMSU1JVCUyNSUyNSUyOStBUytkK09SREVSK0JZK2QuZGV2aWNldHlwZSIsImRlc2NyaXB0aW9uIjp7InRleHQiOiJEZXZpY2UrdHlwZSUzQSVDMiVBMFRoZStkZXZpY2UrZnJvbSt3aGljaCt5b3UrZ2V0K2ErZ3JlYXRlcitudW1iZXIrb2YrdmlzaXRzK3RvK3lvdXIrTE1TK3NpdGUlMkMrd2l0aGluK2ErdGltZWxpbmUuJTBEJTBBVG90YWwlM0ErVGhlK3RvdGFsK251bWJlcitvZithY2Nlc3Nlcytjb3JyZXNwb25kaW5nK3RvK3RoZStkZXZpY2UrJTI4dGhlK21vc3QrYWNjZXNzZWQrZGV2aWNlJTI5JTJDK3dpdGhpbithK3RpbWVsaW5lLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImlkIjo1NSwiY291cnNlaWQiOjEsIm1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjoxLCJzdWJtaXRidXR0b24iOiJOZXh0IiwiZGlzYWJsZXRhYmxlIjowLCJzdW1tYXJ5IjoiRGV2aWNlK3R5cGUlM0ElQzIlQTBUaGUrZGV2aWNlK2Zyb20rd2hpY2greW91K2dldCthK2dyZWF0ZXIrbnVtYmVyK29mK3Zpc2l0cyt0byt5b3VyK0xNUytzaXRlJTJDK3dpdGhpbithK3RpbWVsaW5lLiUwRCUwQVRvdGFsJTNBK1RoZSt0b3RhbCtudW1iZXIrb2YrYWNjZXNzZXMrY29ycmVzcG9uZGluZyt0byt0aGUrZGV2aWNlKyUyOHRoZSttb3N0K2FjY2Vzc2VkK2RldmljZSUyOSUyQyt3aXRoaW4rYSt0aW1lbGluZS4ifX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Geographical]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1718790075]]></timecreated>
+<timemodified><![CDATA[1718790075]]></timemodified>
+<title><![CDATA[Most accessed]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[291125290]]></logo>
+<tilescolourpicker><![CDATA[FFFFFF]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Geographical]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-four]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Logins]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJMb2dpbnMiLCJ0eXBlIjoic3RhdGlzdGljcyIsInF1ZXJ5c3FsIjoiU0VMRUNUKyUyOFNFTEVDVCtDT1VOVCUyOERJU1RJTkNUK3UuaWQlMjkrRlJPTStwcmVmaXhfdXNlcit1JTBEJTBBV0hFUkUrdS5sYXN0YWNjZXNzKyUzRSsxMDArJTJBK2Zsb29yJTI4JTI4JTI1JTI1VU5JWFRJTUUlMjUlMjUrLSs3MjAwJTI5KyUyRisxMDAlMjklMEQlMEFBTkQrdS5sYXN0YWNjZXNzKyUzQyUzRCslMjUlMjVVTklYVElNRSUyNSUyNSUwRCUwQUFORCslMjhTRUxFQ1QrJTI1JTI1VE9QJTI1JTI1K2FjdGlvbitGUk9NK3ByZWZpeF9sb2dzdG9yZV9zdGFuZGFyZF9sb2crV0hFUkUrdXNlcmlkKyUzRCt1LmlkK09SREVSK0JZK2lkK0RFU0MrJTI1JTI1TElNSVQlMjUlMjUlMjkrJTIxJTNEKyUyN2xvZ2dlZG91dCUyNyUwRCUwQUFORCt1LmRlbGV0ZWQrJTNEKzArQU5EK3UubGFzdGFjY2VzcytCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSUwRCUwQSUyOStBUyslMjJBY3RpdmUlMjIlMkMrQ09VTlQlMjhESVNUSU5DVCt1c2VyaWQlMjkrQVMrJTIyVW5pcXVlJTIyK0ZST00rcHJlZml4X2xvZ3N0b3JlX3N0YW5kYXJkX2xvZytXSEVSRSt0aW1lY3JlYXRlZCslMEQlMEFCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNStPUkRFUitCWSslMjJBY3RpdmUlMjIiLCJkZXNjcmlwdGlvbiI6eyJ0ZXh0IjoiIiwiZm9ybWF0IjoiMSJ9LCJnbG9iYWwiOiIxIiwiaWQiOjQ5LCJjb3Vyc2VpZCI6MSwibWZvcm1faXNleHBhbmRlZF9pZF9hZHZhbmNlZG9wdGlvbnMiOjAsInN1Ym1pdGJ1dHRvbiI6Ik5leHQiLCJkaXNhYmxldGFibGUiOjAsInN1bW1hcnkiOiIifX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[779]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1718790069]]></timecreated>
+<timemodified><![CDATA[1718790069]]></timemodified>
+<title><![CDATA[Logins]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[959556653]]></logo>
+<tilescolourpicker><![CDATA[FFFFFF]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[all]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Dashboard]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[center-second]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>

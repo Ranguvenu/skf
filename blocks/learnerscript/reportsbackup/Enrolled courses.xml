@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050702.2"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Enrolled courses]]></name>
+<summary><![CDATA[The number of courses enrolled to by a Teacher.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJFbnJvbGxlZCtjb3Vyc2VzIiwidHlwZSI6InN0YXRpc3RpY3MiLCJxdWVyeXNxbCI6IlNFTEVDVCtDT1VOVCUyOERJU1RJTkNUK2MuaWQlMjkrQVMrJTIyRW5yb2xsZWQrY291cnNlcyUyMiUwRCUwQUZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrQVMrcmwlMEQlMEFKT0lOK3ByZWZpeF9jb250ZXh0K0FTK2N4dCtPTitjeHQuaWQrJTNEK3JsLmNvbnRleHRpZCUwRCUwQUpPSU4rcHJlZml4X3VzZXIrQVMrdStPTit1LmlkJTNEcmwudXNlcmlkJTBEJTBBSk9JTitwcmVmaXhfY291cnNlK0FTK2MrT04rYy5pZCUzRGN4dC5pbnN0YW5jZWlkJTBEJTBBSk9JTitwcmVmaXhfcm9sZStyK09OK3IuaWQrJTNEK3JsLnJvbGVpZCUwRCUwQVdIRVJFK3JsLnVzZXJpZCUzRHUuaWQrQU5EK2MudmlzaWJsZSslM0QrMStBTkQrYy5pZCslM0QrY3h0Lmluc3RhbmNlaWQrJTI1JTI1REFTSEJPQVJEUk9MRSUzQXIuc2hvcnRuYW1lJTI1JTI1JTBEJTBBQU5EK2N4dC5jb250ZXh0bGV2ZWwrJTNENTArQU5EK3JsLnVzZXJpZCslM0QrJTI1JTI1VVNFUklEJTI1JTI1K0FORCtybC50aW1lbW9kaWZpZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUiLCJkZXNjcmlwdGlvbiI6eyJ0ZXh0IjoiVGhlK251bWJlcitvZitjb3Vyc2VzK2Vucm9sbGVkK3RvK2J5K2ErVGVhY2hlci4iLCJmb3JtYXQiOiIxIn0sImdsb2JhbCI6IjEiLCJpZCI6MzUsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MCwic3VibWl0YnV0dG9uIjoiTmV4dCIsImRpc2FibGV0YWJsZSI6MCwic3VtbWFyeSI6IlRoZStudW1iZXIrb2YrY291cnNlcytlbnJvbGxlZCt0bytieSthK1RlYWNoZXIuIn19LCJwZXJtaXNzaW9ucyI6eyJjb25maWciOnsiY29uZGl0aW9uZXhwcjEiOiIiLCJjb25kaXRpb25leHByMiI6IiUyOGMxK29yK2MyJTI5IiwiY29uZGl0aW9uZXhwciI6IiUyOGMxK29yK2MyJTI5In0sImVsZW1lbnRzIjpbeyJpZCI6Imdpbk5hckRua2RqcmppQSIsImZvcm1kYXRhIjp7ImNvbnRleHRsZXZlbCI6IjUwIiwic3VibWl0YnV0dG9uIjoiQWRkIiwicm9sZWlkIjoiMyJ9LCJwbHVnaW5uYW1lIjoicm9sZWluY291cnNlIiwicGx1Z2luZnVsbG5hbWUiOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIiwic3VtbWFyeSI6ImVkaXRpbmd0ZWFjaGVyK2F0K0NvdXJzZStsZXZlbCJ9LHsiaWQiOiJpeVRKTElFd25saHRwNXQiLCJmb3JtZGF0YSI6eyJjb250ZXh0bGV2ZWwiOiI1MCIsInN1Ym1pdGJ1dHRvbiI6IkFkZCIsInJvbGVpZCI6IjUifSwicGx1Z2lubmFtZSI6InJvbGVpbmNvdXJzZSIsInBsdWdpbmZ1bGxuYW1lIjoiVXNlcit3aXRoK3RoZStzZWxlY3RlZCtyb2xlJTJGcyIsInN1bW1hcnkiOiJzdHVkZW50K2F0K0NvdXJzZStsZXZlbCJ9XX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050702.2"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-editingteacher_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[reportdb-one]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1721202004]]></timecreated>
+<timemodified><![CDATA[1721202004]]></timemodified>
+<title><![CDATA[Enrolled courses]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[568811774]]></logo>
+<tilescolourpicker><![CDATA[04060F]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[all]]></reportduration>
+<tilescolour><![CDATA[FFFFFF]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050702.2"></position></report>

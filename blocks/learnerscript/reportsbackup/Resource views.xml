@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Resource views]]></name>
+<summary><![CDATA[The number of Resource type activity (from all courses) visits, within a timeline.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJSZXNvdXJjZSt2aWV3cyIsInR5cGUiOiJzdGF0aXN0aWNzIiwicXVlcnlzcWwiOiJTRUxFQ1QrQ09VTlQlMjglMjdYJTI3JTI5K0FTKyUyMk5vLit2aWV3cyUyMitGUk9NK3ByZWZpeF9sb2dzdG9yZV9zdGFuZGFyZF9sb2crQVMrbHNsK0pPSU4rcHJlZml4X2NvdXJzZV9tb2R1bGVzK2NtK09OK2NtLmlkKyUzRCtsc2wuY29udGV4dGluc3RhbmNlaWQrSk9JTitwcmVmaXhfbW9kdWxlcytBUyttK09OK20uaWQrJTNEK2NtLm1vZHVsZStXSEVSRSttLm5hbWUrSU4rJTI4JTI3Ym9vayUyNyUyQyUyN3BhZ2UlMjclMkMlMjdmaWxlJTI3JTJDJTI3Zm9sZGVyJTI3JTJDJTI3bGFiZWwlMjclMkMlMjd1cmwlMjclMkMlMjdpbXNjcCUyNyUyOStBTkQrbHNsLmNvbnRleHRsZXZlbCslM0QrNzArJTI1JTI1RklMVEVSX0NPVVJTRVMlM0Fsc2wuY291cnNlaWQlMjUlMjUrQU5EK2NtLmFkZGVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1JTBEJTBBIiwiZGVzY3JpcHRpb24iOnsidGV4dCI6IlRoZStudW1iZXIrb2YrUmVzb3VyY2UrdHlwZSthY3Rpdml0eSslMjhmcm9tK2FsbCtjb3Vyc2VzJTI5K3Zpc2l0cyUyQyt3aXRoaW4rYSt0aW1lbGluZS4iLCJmb3JtYXQiOiIxIn0sImdsb2JhbCI6IjEiLCJpZCI6NzUsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MCwic3VibWl0YnV0dG9uIjoiTmV4dCIsImRpc2FibGV0YWJsZSI6MCwic3VtbWFyeSI6IlRoZStudW1iZXIrb2YrUmVzb3VyY2UrdHlwZSthY3Rpdml0eSslMjhmcm9tK2FsbCtjb3Vyc2VzJTI5K3Zpc2l0cyUyQyt3aXRoaW4rYSt0aW1lbGluZS4ifX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[26]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

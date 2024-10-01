@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[SCORM overview]]></name>
+<summary><![CDATA[Total: The total number of Scorms created from the all courses on your system, within a timeline.
+Active: The number of Scorms available (active/inactive status) from all the courses for learners, within a timeline.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJTQ09STStvdmVydmlldyIsInR5cGUiOiJzdGF0aXN0aWNzIiwicXVlcnlzcWwiOiJTRUxFQ1QrQ09VTlQlMjhESVNUSU5DVCtzYy5pZCUyOStBUytUb3RhbCUyQyslMjhTRUxFQ1QrQ09VTlQlMjhESVNUSU5DVCtzYy5pZCUyOStGUk9NK3ByZWZpeF9zY29ybStBUytzYyslMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2VfbW9kdWxlcytBUytjbStPTitjbS5pbnN0YW5jZSslM0Qrc2MuaWQrJTBEJTBBSk9JTitwcmVmaXhfbW9kdWxlcytBUyttK09OK2NtLm1vZHVsZSslM0QrbS5pZCtBTkQrbS5uYW1lJTNEJTI3c2Nvcm0lMjclMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtjbS5jb3Vyc2UlMEQlMEErSk9JTitwcmVmaXhfZ3JhZGVfaXRlbXMrZ2krT04rZ2kuaXRlbWluc3RhbmNlKyUzRCtjbS5pbnN0YW5jZStBTkQrZ2kuaXRlbXR5cGUrJTNEKyUyN21vZCUyNyslMEQlMEErQU5EK2dpLml0ZW1tb2R1bGUrJTNEKyUyN3Njb3JtJTI3JTBEJTBBV0hFUkUrYy52aXNpYmxlKyUzRCsxK0FORCtjbS52aXNpYmxlKyUzRCsxKyUyNSUyNUZJTFRFUl9DT1VSU0VTJTNBYy5pZCUyNSUyNStBTkQrY20uYWRkZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUlMjkrQVMrQWN0aXZlJTBEJTBBRlJPTStwcmVmaXhfc2Nvcm0rQVMrc2MrJTBEJTBBSk9JTitwcmVmaXhfY291cnNlX21vZHVsZXMrQVMrY20rT04rY20uaW5zdGFuY2UrJTNEK3NjLmlkKyUwRCUwQUpPSU4rcHJlZml4X21vZHVsZXMrQVMrbStPTitjbS5tb2R1bGUrJTNEK20uaWQrQU5EK20ubmFtZSUzRCUyN3Njb3JtJTI3JTBEJTBBSk9JTitwcmVmaXhfY291cnNlK2MrT04rYy5pZCslM0QrY20uY291cnNlJTBEJTBBK0pPSU4rcHJlZml4X2dyYWRlX2l0ZW1zK2dpK09OK2dpLml0ZW1pbnN0YW5jZSslM0QrY20uaW5zdGFuY2UrQU5EK2dpLml0ZW10eXBlKyUzRCslMjdtb2QlMjcrJTBEJTBBK0FORCtnaS5pdGVtbW9kdWxlKyUzRCslMjdzY29ybSUyNyUwRCUwQVdIRVJFK2MudmlzaWJsZSslM0QrMSsrJTI1JTI1RklMVEVSX0NPVVJTRVMlM0FjLmlkJTI1JTI1K0FORCtjbS5hZGRlZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSsiLCJkZXNjcmlwdGlvbiI6eyJ0ZXh0IjoiVG90YWwlM0ElQzIlQTBUaGUrdG90YWwrbnVtYmVyK29mK1Njb3JtcytjcmVhdGVkK2Zyb20rdGhlK2FsbCtjb3Vyc2VzK29uK3lvdXIrc3lzdGVtJTJDK3dpdGhpbithK3RpbWVsaW5lLiUwRCUwQUFjdGl2ZSUzQSVDMiVBMFRoZStudW1iZXIrb2YrU2Nvcm1zK2F2YWlsYWJsZSslMjhhY3RpdmUlMkZpbmFjdGl2ZStzdGF0dXMlMjkrZnJvbSthbGwrdGhlK2NvdXJzZXMrZm9yK2xlYXJuZXJzJTJDK3dpdGhpbithK3RpbWVsaW5lLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImlkIjo3OCwiY291cnNlaWQiOjEsIm1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjoxLCJzdWJtaXRidXR0b24iOiJOZXh0IiwiZGlzYWJsZXRhYmxlIjowLCJzdW1tYXJ5IjoiVG90YWwlM0ElQzIlQTBUaGUrdG90YWwrbnVtYmVyK29mK1Njb3JtcytjcmVhdGVkK2Zyb20rdGhlK2FsbCtjb3Vyc2VzK29uK3lvdXIrc3lzdGVtJTJDK3dpdGhpbithK3RpbWVsaW5lLiUwRCUwQUFjdGl2ZSUzQSVDMiVBMFRoZStudW1iZXIrb2YrU2Nvcm1zK2F2YWlsYWJsZSslMjhhY3RpdmUlMkZpbmFjdGl2ZStzdGF0dXMlMjkrZnJvbSthbGwrdGhlK2NvdXJzZXMrZm9yK2xlYXJuZXJzJTJDK3dpdGhpbithK3RpbWVsaW5lLiJ9fX0=]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[center-second]]></defaultregion>
+<defaultweight><![CDATA[4]]></defaultweight>
+<timecreated><![CDATA[1718790095]]></timecreated>
+<timemodified><![CDATA[1718790095]]></timemodified>
+<title><![CDATA[SCORM overview]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[503493205]]></logo>
+<tilescolourpicker><![CDATA[FFFFFF]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>

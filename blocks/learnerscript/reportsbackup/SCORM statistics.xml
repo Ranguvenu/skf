@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[SCORM statistics]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[scorm]]></type>
+<components><![CDATA[eyJjb2x1bW5zIjp7ImVsZW1lbnRzIjpbeyJpZCI6ImlTb0RrVWNrRmRBamZXRiIsInBsdWdpbm5hbWUiOiJzY29ybWZpZWxkIiwicGx1Z2luZnVsbG5hbWUiOiJzY29ybWZpZWxkIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJjb2x1bW4iOiJuYW1lIiwiY29sdW1uYW1lIjoiU2Nvcm0iLCJhbGlnbiI6ImNlbnRlciIsInNpemUiOjAsIndyYXAiOiIifX0seyJpZCI6IjM2dnpYalNxTHRCbTVvQyIsInBsdWdpbm5hbWUiOiJzY29ybSIsInBsdWdpbmZ1bGxuYW1lIjoiU2Nvcm0rQ29sdW1ucyIsInN1bW1hcnkiOiIiLCJ0eXBlIjoic2VsZWN0ZWRjb2x1bW5zIiwiZm9ybWRhdGEiOnsidmFsdWUiOnRydWUsImNvbHVtbmFtZSI6Im5vb2Zjb21wbGV0aW9ucyIsImNvbHVtbiI6Im5vb2Zjb21wbGV0aW9ucyIsImhlYWRpbmciOiJzY29ybSJ9fSx7ImlkIjoiZlV6dElabU1BSE5GcUczIiwicGx1Z2lubmFtZSI6InNjb3JtIiwicGx1Z2luZnVsbG5hbWUiOiJTY29ybStDb2x1bW5zIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoidG90YWx0aW1lc3BlbnQiLCJjb2x1bW4iOiJ0b3RhbHRpbWVzcGVudCIsImhlYWRpbmciOiJzY29ybSJ9fSx7ImlkIjoiS1FVYkhOR1NEelU2clZvIiwicGx1Z2lubmFtZSI6InNjb3JtIiwicGx1Z2luZnVsbG5hbWUiOiJTY29ybStDb2x1bW5zIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoibnVtdmlld3MiLCJjb2x1bW4iOiJudW12aWV3cyIsImhlYWRpbmciOiJzY29ybSJ9fV19LCJmaWx0ZXJzIjp7ImVsZW1lbnRzIjpudWxsfSwiY2FsY3VsYXRpb25zIjp7ImVsZW1lbnRzIjpudWxsfSwib3JkZXJpbmciOnsiZWxlbWVudHMiOm51bGx9LCJwbG90Ijp7ImVsZW1lbnRzIjpbeyJpZCI6IkEzU05IUU1CUWJmdG11TCIsImZvcm1kYXRhIjp7ImNoYXJ0bmFtZSI6IkF2ZXJhZ2UiLCJzZXJpZWlkIjoibmFtZSIsInlheGlzIjpbIm5vb2Zjb21wbGV0aW9ucyJdLCJzaG93bGVnZW5kIjoiMCIsImRhdGFsYWJlbHMiOiIxIiwiY2FsY3MiOiJhdmVyYWdlIiwiaWQiOiJBM1NOSFFNQlFiZnRtdUwifSwicGx1Z2lubmFtZSI6ImNvbHVtbiIsInBsdWdpbmZ1bGxuYW1lIjoiQmFyIiwic3VtbWFyeSI6IkErYmFyK2dyYXBoK3dpdGgrbXVsdGlwbGUrc2VyaWVzK29mK2RhdGEifV19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[1]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[center-second]]></defaultregion>
+<defaultweight><![CDATA[6]]></defaultweight>
+<timecreated><![CDATA[1718790096]]></timecreated>
+<timemodified><![CDATA[1718790096]]></timemodified>
+<title><![CDATA[SCORM statistics]]></title>
+<reportcontenttype><![CDATA[A3SNHQMBQbftmuL]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[1A77BA]]></tilescolourpicker>
+<disableheader><![CDATA[1]]></disableheader>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>

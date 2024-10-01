@@ -1,0 +1,56 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_learnerscript/reporttable
+
+    Describe the custom report table view.
+
+    Example context (json):
+    {
+    }
+}}
+<div id="reportcontainer{{reportinstance}}">
+    <div id="printablediv">
+        <div id="map_{{reportinstance}}" class="map_report_container">
+            <div id="reportloading_{{reportinstance}}" style="display:none;">
+                {{#pix}}loading, block_learnerscript, {{#str}}loading, block_reportdashboard{{/str}}{{/pix}}
+            </div>
+            <table {{#width}} width="{{width}}" {{/width}} {{#summary}} summary='{{summary}}' {{/summary}} {{#cellpadding}} cellpadding={{cellpadding}} {{/cellpadding}} {{#cellspacing}} cellspacing={{cellspacing}} {{/cellspacing}} class="{{class}} boxalign{{align}}" id="reporttable_{{reportinstance}}">
+                <caption>{{summary}}</caption>
+                <thead class="table_{{reporttype}}">
+                    <tr>
+                    {{# tablehead}}
+                    <th style="vertical-align:middle;white-space:normal;{{align}} {{size}} {{wrap}}" class="header c{{key}}" scope="col">
+                    {{heading}}</th>
+                    {{/ tablehead}}
+                    {{^ tablehead}}
+                    <th></th>
+                    {{/ tablehead}}
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>
+{{# debugsql}}
+<hr>
+	<div id="debug" style="direction:ltr;text-align:left;">
+		{{reportsql}}
+	</div>
+</hr>
+{{/ debugsql}}
+{{> block_learnerscript/exportoptions }}

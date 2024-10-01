@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Activity views]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[noofviews]]></type>
+<components><![CDATA[eyJjb2x1bW5zIjp7ImVsZW1lbnRzIjpbeyJpZCI6Ind4bmxnaWdjU2FmdWRTTiIsInBsdWdpbm5hbWUiOiJub29mdmlld3MiLCJwbHVnaW5mdWxsbmFtZSI6IkFjdGl2aXR5K1ZpZXdzK0NvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJMZWFybmVyIiwiY29sdW1uIjoibGVhcm5lciIsImhlYWRpbmciOiJub29mdmlld3MiLCJhbGlnbiI6ImxlZnQifX0seyJpZCI6ImRBMXZGZDFlZzdwVTdkOCIsInBsdWdpbm5hbWUiOiJub29mdmlld3MiLCJwbHVnaW5mdWxsbmFtZSI6IkFjdGl2aXR5K1ZpZXdzK0NvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJWaWV3cyIsImNvbHVtbiI6InZpZXdzIiwiaGVhZGluZyI6Im5vb2Z2aWV3cyIsImFsaWduIjoiY2VudGVyIn19XX0sImZpbHRlcnMiOnsiZWxlbWVudHMiOm51bGx9LCJjYWxjdWxhdGlvbnMiOnsiZWxlbWVudHMiOm51bGx9LCJvcmRlcmluZyI6eyJlbGVtZW50cyI6bnVsbH0sInBlcm1pc3Npb25zIjp7ImNvbmZpZyI6eyJjb25kaXRpb25leHByMSI6IiIsImNvbmRpdGlvbmV4cHIyIjoiJTI4YzElMjkiLCJjb25kaXRpb25leHByIjoiJTI4YzElMjkifSwiZWxlbWVudHMiOlt7ImlkIjoiajNQcWlJOUFCVFozUE1GIiwiZm9ybWRhdGEiOnsiY29udGV4dGxldmVsIjoiNTAiLCJzdWJtaXRidXR0b24iOiJBZGQiLCJyb2xlaWQiOiIzIn0sInBsdWdpbm5hbWUiOiJyb2xlaW5jb3Vyc2UiLCJwbHVnaW5mdWxsbmFtZSI6IlVzZXIrd2l0aCt0aGUrc2VsZWN0ZWQrcm9sZSUyRnMiLCJzdW1tYXJ5IjoiZWRpdGluZ3RlYWNoZXIrYXQrQ291cnNlK2xldmVsIn1dfX0=]]></components>
+<export><![CDATA[pdf,csv,xls,ods]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

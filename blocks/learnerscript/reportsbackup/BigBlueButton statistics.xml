@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[BigBlueButton statistics]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[sql]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJCaWdCbHVlQnV0dG9uK3N0YXRpc3RpY3MiLCJ0eXBlIjoic3FsIiwicXVlcnlzcWwiOiJTRUxFQ1QrYy5mdWxsbmFtZStBUytjb3Vyc2UlMkMrQ09VTlQlMjhiYmIuaWQlMjkrQVMrbm9vZnNlc3Npb25zKyUwRCUwQUZST00rcHJlZml4X2NvdXJzZStjKyUwRCUwQUpPSU4rcHJlZml4X2JpZ2JsdWVidXR0b25ibitiYmIrT04rYmJiLmNvdXJzZSslM0QrYy5pZCsrJTBEJTBBV0hFUkUrMSslM0QrMSsrQU5EK2JiYi50aW1lY3JlYXRlZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSslMjUlMjVGSUxURVJfQ09VUlNFUyUzQWMuaWQlMjUlMjUrJTBEJTBBR1JPVVArQlkrYy5pZCUyQytjLmZ1bGxuYW1lIiwiZGVzY3JpcHRpb24iOnsidGV4dCI6IiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MSwic3VibWl0YnV0dG9uIjoiTmV4dCIsIm93bmVyaWQiOiIyIiwidmlzaWJsZSI6MSwiaWQiOjEyNn19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

@@ -1,0 +1,75 @@
+{
+  "name": "user_tour_demo_title,block_learnerscript",
+  "description": "user_tour_demo_desc,block_learnerscript",
+  "pathmatch": "/blocks/reportdashboard/dashboard.php",
+  "enabled": "1",
+  "sortorder": "3",
+  "configdata": "{\"placement\":\"top\",\"orphan\":\"0\",\"backdrop\":\"0\",\"reflex\":\"0\",\"filtervalues\":{\"role\":[],\"theme\":[]},\"majorupdatetime\":1520828405}",
+  "version": "2017051500",
+  "steps": [
+    {
+      "title": "user_tour_welcome_title,block_learnerscript",
+      "content": "user_tour_welcome_content,block_learnerscript",
+      "targettype": "2",
+      "targetvalue": "",
+      "sortorder": "0",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_switchdashboard_title,block_learnerscript",
+      "content": "user_tour_switchdashboard_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#switchdashboard",
+      "sortorder": "1",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_tiles_title,block_learnerscript",
+      "content": "user_tour_tiles_desc,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#addwidgets",
+      "sortorder": "2",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_newreport_title,block_learnerscript",
+      "content": "user_tour_newreport_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#addreport",
+      "sortorder": "3",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_newdashboard_title,block_learnerscript",
+      "content": "user_tour_newdashboard_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#adddashboard",
+      "sortorder": "4",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_switchrole_title,block_learnerscript",
+      "content": "user_tour_switchrole_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#switchrole",
+      "sortorder": "5",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_datefilter_title,block_learnerscript",
+      "content": "user_tour_datefilter_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#reportbox_shadow",
+      "sortorder": "6",
+      "configdata": "{}"
+    },
+    {
+      "title": "user_tour_exportreport_title,block_learnerscript",
+      "content": "user_tour_exportreport_content,block_learnerscript",
+      "targettype": "0",
+      "targetvalue": "#exportoptions",
+      "sortorder": "7",
+      "configdata": "{}"
+    }
+  ]
+}

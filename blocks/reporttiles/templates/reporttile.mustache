@@ -1,0 +1,70 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_reporttiles/reporttile
+
+    Statistics reports information on dashboard
+
+    Example context (json):
+    {
+    }
+}}
+<div class="dashboard_reporttile_container {{tile_with_link}}" {{colorformat}}>
+    {{#instanceurlcheck}}
+        <a href={{instanceurlcheck}} />
+    {{/instanceurlcheck}}
+    <div class="dashboard_tiles {{reporttileclass}}" {{styletilescolour}}>
+        <div>
+            <div class="reporttile_title" title="{{configtitle}}">{{config_title_fullname}}
+            </div>
+            <div class="tiles_information row" data-reportid="{{reportid}}" data-instanceid="{{instanceid}}" data-reporttype="{{reporttype}}">
+                <div class="col-md-7">
+                    {{#tableformat}}
+                        <table width='100%'>
+                            <tr>
+                                <div id="reportloading_{{instanceid}}">
+                                    {{#pix}}loading-small, block_learnerscript, {{#str}} loading, block_reporttiles {{/str}}{{/pix}}
+                                </div>
+                            </tr>
+                        </table>
+                    {{/tableformat}}
+                </div>
+                {{^tableformat}}
+                    <div id="plotreportcontainer{{instanceid}}" class="report_dashboard_container" data-reportid="{{reportid}}"
+                    data-reporttype="{{reporttype}}" data-blockinstance="{{instanceid}}" data-chartcolor="{{stylecolorpicker}}"> </div>
+                {{/tableformat}}
+                <div class="col-md-5">
+                    {{#tableformat}}
+                        <span class="dashboard_tiles_img" 
+                             style='background-image: url("{{{tilelogo}}}");'>
+                        </span>
+                    {{/tableformat}}
+                </div>
+            </div>
+            <em class="ml-2 float-left">{{reportduration}}</em>
+            <span class = "reportshelptext" data-reportid = {{reportid}}>
+                {{#pix}} help, core, {{#str}} helpwith, block_reporttiles {{/str}} {{config_title_fullname}} {{/pix}}
+            </span>
+        </div>
+    </div>
+    {{#instanceurlcheck}}
+        </a>
+    {{/instanceurlcheck}}
+    <input type='hidden' name='lsfstartdate' id='lsfstartdate{{instanceid}}' value="{{startduration}}">
+    <input type='hidden' name='lsfenddate' id='lsfenddate{{instanceid}}' value="{{endduration}}">
+</div>
+

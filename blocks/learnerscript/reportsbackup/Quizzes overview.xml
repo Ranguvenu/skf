@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Quizzes overview]]></name>
+<summary><![CDATA[Total: The total number of quizzes created from the all courses on your system, within a timeline.
+Active: The number of quizzes available (active/inactive status)  from all the courses for learners, within a timeline.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJRdWl6emVzK292ZXJ2aWV3IiwidHlwZSI6InN0YXRpc3RpY3MiLCJxdWVyeXNxbCI6IlNFTEVDVCtDT1VOVCUyOGNtLmlkJTI5K0FTKyUyMlRvdGFsJTIyJTJDJTBEJTBBJTI4U0VMRUNUK0NPVU5UJTI4Y20uaWQlMjkrRlJPTStwcmVmaXhfY291cnNlX21vZHVsZXMrQVMrY20rKyslMEQlMEErKytKT0lOK3ByZWZpeF9jb3Vyc2UrQVMrYytPTitjLmlkJTNEY20uY291cnNlJTBEJTBBKysrSk9JTitwcmVmaXhfbW9kdWxlcytBUyttK09OK20uaWQrJTNEK2NtLm1vZHVsZSsrJTBEJTBBKysrV0hFUkUrY20udmlzaWJsZSslM0QxK0FORCtjLnZpc2libGUrJTNEKzErQU5EK20ubmFtZSUzRCUyN3F1aXolMjcrKyUyNSUyNUZJTFRFUl9DT1VSU0VTJTNBYy5pZCUyNSUyNStBTkQrY20uYWRkZWQrQkVUV0VFTislMjUlMjVMU19TVEFSVERBVEUlMjUlMjUrQU5EKyUyNSUyNUxTX0VORERBVEUlMjUlMjUlMjkrQVMrJTIyQWN0aXZlJTIyJTBEJTBBRlJPTStwcmVmaXhfY291cnNlX21vZHVsZXMrQVMrY20rJTBEJTBBSk9JTitwcmVmaXhfcXVpeitBUytxK09OK3EuaWQrJTNEK2NtLmluc3RhbmNlJTBEJTBBSk9JTitwcmVmaXhfbW9kdWxlcytBUyttK09OK20uaWQrJTNEK2NtLm1vZHVsZSUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStBUytjK09OK2MuaWQlM0RjbS5jb3Vyc2UrV0hFUkUrYy52aXNpYmxlKyUzRCsxJTBEJTBBQU5EK20ubmFtZSslM0QrJTI3cXVpeiUyNyslMjUlMjVGSUxURVJfQ09VUlNFUyUzQWMuaWQlMjUlMjUrQU5EK2NtLmFkZGVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1IiwiZGVzY3JpcHRpb24iOnsidGV4dCI6IlRvdGFsJTNBJUMyJUEwVGhlK3RvdGFsK251bWJlcitvZitxdWl6emVzK2NyZWF0ZWQrZnJvbSt0aGUrYWxsK2NvdXJzZXMrb24reW91citzeXN0ZW0lMkMrd2l0aGluK2ErdGltZWxpbmUuJTBEJTBBQWN0aXZlJTNBJUMyJUEwVGhlK251bWJlcitvZitxdWl6emVzK2F2YWlsYWJsZSslMjhhY3RpdmUlMkZpbmFjdGl2ZStzdGF0dXMlMjkrJUMyJUEwZnJvbSthbGwrdGhlK2NvdXJzZXMrZm9yK2xlYXJuZXJzJTJDK3dpdGhpbithK3RpbWVsaW5lLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImlkIjo3MywiY291cnNlaWQiOjEsIm1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjoxLCJzdWJtaXRidXR0b24iOiJOZXh0IiwiZGlzYWJsZXRhYmxlIjowLCJzdW1tYXJ5IjoiVG90YWwlM0ElQzIlQTBUaGUrdG90YWwrbnVtYmVyK29mK3F1aXp6ZXMrY3JlYXRlZCtmcm9tK3RoZSthbGwrY291cnNlcytvbit5b3VyK3N5c3RlbSUyQyt3aXRoaW4rYSt0aW1lbGluZS4lMEQlMEFBY3RpdmUlM0ElQzIlQTBUaGUrbnVtYmVyK29mK3F1aXp6ZXMrYXZhaWxhYmxlKyUyOGFjdGl2ZSUyRmluYWN0aXZlK3N0YXR1cyUyOSslQzIlQTBmcm9tK2FsbCt0aGUrY291cnNlcytmb3IrbGVhcm5lcnMlMkMrd2l0aGluK2ErdGltZWxpbmUuIn19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[center-second]]></defaultregion>
+<defaultweight><![CDATA[1]]></defaultweight>
+<timecreated><![CDATA[1718790091]]></timecreated>
+<timemodified><![CDATA[1718790091]]></timemodified>
+<title><![CDATA[Quizzes overview]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[192695262]]></logo>
+<tilescolourpicker><![CDATA[FFFFFF]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>

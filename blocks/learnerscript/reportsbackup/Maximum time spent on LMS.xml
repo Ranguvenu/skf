@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Maximum time spent on LMS]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJNYXhpbXVtK3RpbWUrc3BlbnQrb24rTE1TIiwidHlwZSI6InN0YXRpc3RpY3MiLCJxdWVyeXNxbCI6IlNFTEVDVCslMkErRlJPTSslMjhTRUxFQ1QrJTI1JTI1VE9QJTI1JTI1K1NVTSUyOGxzdC50aW1lc3BlbnQlMjkrYXMrJTIybWF4dGltZXNwZW50JTIyJTBEJTBBRlJPTStwcmVmaXhfYmxvY2tfbHNfY291cnNldGltZXN0YXRzK2xzdCtXSEVSRSsxJTNEMStBTkQrbHN0LnRpbWVjcmVhdGVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1KyUwRCUwQU9SREVSK0JZK1NVTSUyOGxzdC50aW1lc3BlbnQlMjkrREVTQyslMjUlMjVMSU1JVCUyNSUyNSUyOStBUyt0K09SREVSK0JZK3QubWF4dGltZXNwZW50IiwiZGVzY3JpcHRpb24iOnsidGV4dCI6IlRoZSttYXhpbXVtK2Ftb3VudCtvZit0aW1lLXNwZW50K29uK3RoZStMTVMrYnkrYWxsK3VzZXJzLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MSwic3VibWl0YnV0dG9uIjoiTmV4dCIsIm93bmVyaWQiOiIyIiwidmlzaWJsZSI6MSwiaWQiOjQ0fX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Cohort users]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[cohortusers]]></type>
+<components><![CDATA[eyJwZXJtaXNzaW9ucyI6eyJjb25maWciOnsiY29uZGl0aW9uZXhwcjEiOiIiLCJjb25kaXRpb25leHByMiI6IiIsImNvbmRpdGlvbmV4cHIiOiIifX0sImNvbHVtbnMiOnsiZWxlbWVudHMiOlt7ImlkIjoidURERTVLNlFDM1M0QmRJIiwicGx1Z2lubmFtZSI6ImNvaG9ydHVzZXJjb2x1bW5zIiwicGx1Z2luZnVsbG5hbWUiOiJDb2hvcnQlMjUyQnVzZXIlMjUyQmNvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJMZWFybmVyIiwiY29sdW1uIjoibGVhcm5lciIsImhlYWRpbmciOiJjb2hvcnR1c2VyY29sdW1ucyIsImFsaWduIjoibGVmdCJ9fSx7ImlkIjoidVNWU1c1TlU5bjc4VnpQIiwicGx1Z2lubmFtZSI6ImNvaG9ydHVzZXJjb2x1bW5zIiwicGx1Z2luZnVsbG5hbWUiOiJDb2hvcnQlMjUyQnVzZXIlMjUyQmNvbHVtbnMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJFbWFpbCIsImNvbHVtbiI6ImVtYWlsIiwiaGVhZGluZyI6ImNvaG9ydHVzZXJjb2x1bW5zIiwiYWxpZ24iOiJsZWZ0In19XX0sImZpbHRlcnMiOnsiZWxlbWVudHMiOlt7ImlkIjoiakxpMHNUcHdyclFYSnRMIiwicGx1Z2lubmFtZSI6InVzZXJzIiwicGx1Z2luZnVsbG5hbWUiOiJVc2VycyIsInN1bW1hcnkiOiIiLCJmb3JtZGF0YSI6eyJuYW1lIjoiVXNlcnMiLCJ0eXBlIjoiZmlsdGVycyIsInZhbHVlIjp0cnVlfX1dfSwiY2FsY3VsYXRpb25zIjp7ImVsZW1lbnRzIjpudWxsfSwib3JkZXJpbmciOnsiZWxlbWVudHMiOm51bGx9fQ==]]></components>
+<export><![CDATA[pdf,csv,xls,ods]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

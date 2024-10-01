@@ -1,0 +1,51 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_learnerscript/exportoptions
+
+    Describe the export option in view report page.
+    Context variables required for this template:
+    * download_icon - icon
+    * reportid - report id
+    * exports - exports options
+    * reportid - getting the reportid
+    * exportparams - params
+    Example context (json):
+    { 
+    }
+}}
+{{# exports.0}}
+<div class='export_options' id='export_options{{reportid}}' style='display:none;'>
+    <span class="dropdown nav-item" id="download_dropdwn">
+        <a class="dropdown-toggle htitle" id="exportoptions{{reportid}}" data-toggle="dropdown"
+        aria-haspopup="true" aria-expanded="false">
+            {{#pix}}download_icon, block_learnerscript, {{#str}}download, block_learnerscript{{/str}}{{/pix}}
+        </a>
+        <ul class="menu dropdown-menu dropdown-menu-left dropdown-content download_menu{{reportid}}" area-labelledby="exportoptions{{reportid}}">
+        {{# exports}}
+        <li role="presentation">
+            <a href="{{path}}/blocks/learnerscript/viewreport.php?id={{reportid}}&download=1&format={{.}}{{exportparams}}"
+            target="_blank" class="dropdown-item menu-action">
+                    {{#pix}}{{.}}/pix, block_learnerscript, {{#str}}errorimage, block_learnerscript, {{.}}{{/str}}{{/pix}}
+                    <span class="export_format_name">{{.}}</span>
+            </a>
+        </li>
+        {{/ exports}}
+        </ul>
+    </span>
+</div>
+{{/ exports.0}}

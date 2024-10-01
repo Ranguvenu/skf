@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Total timespent]]></name>
+<summary><![CDATA[The amount of time-spent on the LMS by learners &amp; teachers. For the admin, the time-spent will be displayed as ‘ZERO’.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJUb3RhbCt0aW1lc3BlbnQiLCJ0eXBlIjoic3RhdGlzdGljcyIsInF1ZXJ5c3FsIjoiU0VMRUNUK0NBU0UrV0hFTitTVU0lMjhibGMudGltZXNwZW50JTI5K0lTK05VTEwrVEhFTislMjcwJTI3K0VMU0UrU1VNJTI4YmxjLnRpbWVzcGVudCUyOStFTkQrK0FTKyUyMlRpbWVzcGVudCUyMiUwRCUwQUZST00rcHJlZml4X2Jsb2NrX2xzX2NvdXJzZXRpbWVzdGF0cytibGMlMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK0FTK3JhK09OK3JhLnVzZXJpZCslM0QrYmxjLnVzZXJpZCUwRCUwQUpPSU4rcHJlZml4X3JvbGUrcitPTityLmlkKyUzRCtyYS5yb2xlaWQrJTBEJTBBV0hFUkUrYmxjLnVzZXJpZCslM0QrJTI1JTI1VVNFUklEJTI1JTI1KyUyNSUyNURBU0hCT0FSRFJPTEUlM0FyLnNob3J0bmFtZSUyNSUyNSslMEQlMEFBTkQrYmxjLnRpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSIsImRlc2NyaXB0aW9uIjp7InRleHQiOiJUaGUrYW1vdW50K29mK3RpbWUtc3BlbnQrb24rdGhlK0xNUytieStsZWFybmVycyslMjZhbXAlM0IrdGVhY2hlcnMuK0Zvcit0aGUrYWRtaW4lMkMrdGhlK3RpbWUtc3BlbnQrd2lsbCtiZStkaXNwbGF5ZWQrYXMrJUUyJTgwJTk4WkVSTyVFMiU4MCU5OS4iLCJmb3JtYXQiOiIxIn0sImdsb2JhbCI6IjEiLCJpZCI6OTAsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MSwic3VibWl0YnV0dG9uIjoiTmV4dCIsImRpc2FibGV0YWJsZSI6MCwic3VtbWFyeSI6IlRoZSthbW91bnQrb2YrdGltZS1zcGVudCtvbit0aGUrTE1TK2J5K2xlYXJuZXJzKyUyNmFtcCUzQit0ZWFjaGVycy4rRm9yK3RoZSthZG1pbiUyQyt0aGUrdGltZS1zcGVudCt3aWxsK2JlK2Rpc3BsYXllZCthcyslRTIlODAlOThaRVJPJUUyJTgwJTk5LiJ9fX0=]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+</report>

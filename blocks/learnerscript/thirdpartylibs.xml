@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>amd/src/charts/chart.js</location>
+        <name>Chart js</name>
+        <description>Chart JS</description>
+        <version>v4.4.2</version>
+        <license>MIT</license>
+        <repository>https://cdn.jsdelivr.net/npm/chart.js</repository>
+        <copyrights>
+            <copyright>2014-2024 Chart.js Contributors</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/datatables/jquery.dataTables.js</location>
+        <name>DataTables</name>
+        <description>Paginate, search and order HTML tables</description>
+        <version>1.13.11</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/1.13.11/js/jquery.dataTables.js</repository>
+        <copyrights>
+            <copyright>2008-2024 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/serialize/jquery.serialize-object.js</location>
+        <name>jQuery serializeObject</name>
+        <description>jQuery serializeObject</description>
+        <version>2.5.0</version>
+        <license>BSD</license>
+        <repository>https://github.com/macek/jquery-serialize-object</repository>
+        <copyrights>
+            <copyright>2014, Paul Macek</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/radioslider/jquery.radios-to-slider.js</location>
+        <name>RadiosToSlider</name>
+        <description>jquery plugin to create a slider using a list of radio buttons</description>
+        <version>v0.3.2</version>
+        <license>MIT</license>
+        <repository>https://github.com/rubentd/radios-to-slider/blob/master/js/jquery.radios-to-slider.js</repository>
+        <copyrights>
+            <copyright>(c)2014 Rubén Torres - rubentdlh@gmail.com</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/select2/select2.js</location>
+        <name>Select2</name>
+        <description>Select2 JS</description>
+        <version>4.0.3</version>
+        <license>MIT</license>
+        <repository>https://github.com/select2/select2/blob/develop/dist/js/select2.js</repository>
+        <copyrights>
+            <copyright>2012-2017 Kevin Brown, Igor Vaynberg, and Select2 contributors</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>css/datatables/fixedHeader.dataTables.min.css</location>
+        <name>fixedHeader.dataTables</name>
+        <description>Datatables fixedheader css</description>
+        <version>4.0.1</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.dataTables.min.css</repository>
+        <copyrights>
+            <copyright>2007-2023 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>css/datatables/jquery.dataTables.min.css</location>
+        <name>jquery.dataTables</name>
+        <description>jQuery datatables css</description>
+        <version>1.13.11</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/1.13.11/css/jquery.dataTables.min.css</repository>
+        <copyrights>
+            <copyright>2007-2023 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>css/datatables/responsive.dataTables.min.css</location>
+        <name>responsive.dataTables</name>
+        <description>Datatables responsive css</description>
+        <version>3.0.2</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/responsive/3.0.2/css/responsive.dataTables.min.css</repository>
+        <copyrights>
+            <copyright>2007-2023 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>css/select2/select2.min.css</location>
+        <name>select2</name>
+        <description>Select2 css</description>
+        <version>4.0.3</version>
+        <license>MIT</license>
+        <repository>https://github.com/select2/select2/blob/master/dist/css/select2.min.css</repository>
+        <copyrights>
+            <copyright>2007-2023 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/bootstrapnotify/bootstrapnotify.js</location>
+        <name>Bootstrap Notify</name>
+        <description>Turns standard Bootstrap alerts into "Growl-like" notifications.</description>
+        <version>v3.1.5</version>
+        <license>MIT</license>
+        <repository>https://github.com/mouse0270/bootstrap-notify/blob/master/bootstrap-notify.js</repository>
+        <copyrights>
+            <copyright>2015 Robert McIntoch</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/datatables/dataTables.bootstrap.js</location>
+        <name>DataTables Bootstrap</name>
+        <description>This file sets the defaults and adds options to DataTables to style its
+ *      controls using Bootstrap</description>
+        <version>2.1.1</version>
+        <license>MIT</license>
+        <repository>https://cdnjs.cloudflare.com/ajax/libs/datatables.net-bs/2.1.1/dataTables.bootstrap.js</repository>
+        <copyrights>
+            <copyright>2011-2015 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/datatables/dataTables.fixedHeader.js</location>
+        <name>FixedHeader</name>
+        <description>Fix a table's header or footer, so it is always visible while scrolling</description>
+        <version>4.0.1</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.js</repository>
+        <copyrights>
+            <copyright>SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/datatables/dataTables.responsive.js</location>
+        <name>Responsive</name>
+        <description>Responsive for DataTables</description>
+        <version>2.5.0</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.js</repository>
+        <copyrights>
+            <copyright>SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/flatpickr.js</location>
+        <name>Flatpickr</name>
+        <description>A lightweight, powerful datetimepicker</description>
+        <version>v4.0.7</version>
+        <license>MIT</license>
+        <repository>https://cdnjs.cloudflare.com/ajax/libs/flatpickr/4.0.7/flatpickr.js</repository>
+        <copyrights>
+            <copyright>©2011-2015 SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/datatables/responsive.bootstrap.js</location>
+        <name>DataTables Responsive</name>
+        <description>Bootstrap integration for DataTables' Responsive</description>
+        <version>3.0.1</version>
+        <license>MIT</license>
+        <repository>https://cdn.datatables.net/responsive/3.0.1/js/responsive.bootstrap.js</repository>
+        <copyrights>
+            <copyright>SpryMedia Ltd</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>amd/src/timeme.js</location>
+        <name>TimeMe</name>
+        <description>A utility to time how long a user interacts with a page, disregarding time spent on other tabs, minimized, or idle time.</description>
+        <version>2.0.0</version>
+        <license>MIT</license>
+        <repository>https://cdnjs.cloudflare.com/ajax/libs/TimeMe.js/2.0.0/timeme.js</repository>
+        <copyrights>
+            <copyright>2017 Jason Zissman</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+</libraries>

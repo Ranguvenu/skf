@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Top registrations]]></name>
+<summary><![CDATA[The learner who spent more time to learn something on your LMS.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJUb3ArcmVnaXN0cmF0aW9ucyIsInR5cGUiOiJzdGF0aXN0aWNzIiwicXVlcnlzcWwiOiJTRUxFQ1QrYy5jb3VudHJ5JTJDK2MucmVnaXN0cmF0aW9ucytGUk9NKyUyOFNFTEVDVCslMjUlMjVUT1AlMjUlMjUrQ09VTlQlMjhjb3VudHJ5JTI5K0FTK3JlZ2lzdHJhdGlvbnMlMkMrQ0FTRStXSEVOK2NvdW50cnklM0QlMjclMjcrK1RIRU4rJTI3T3RoZXIlMjcrRUxTRStjb3VudHJ5KytFTkQrQVMrY291bnRyeSslMEQlMEFGUk9NK3ByZWZpeF91c2VyKyUwRCUwQVdIRVJFK3RpbWVjcmVhdGVkK0JFVFdFRU4rJTI1JTI1TFNfU1RBUlREQVRFJTI1JTI1K0FORCslMjUlMjVMU19FTkREQVRFJTI1JTI1KyUwRCUwQSUyNSUyNVNFQVJDSCUzQWNvdW50cnklMjUlMjUlMEQlMEFHUk9VUCtCWStjb3VudHJ5K09SREVSK0JZK3JlZ2lzdHJhdGlvbnMrREVTQyslMjUlMjVMSU1JVCUyNSUyNSUyOStBUytjK09SREVSK0JZK2MuY291bnRyeSIsImRlc2NyaXB0aW9uIjp7InRleHQiOiJUaGUrbGVhcm5lcit3aG8rc3BlbnQrbW9yZSt0aW1lK3RvK2xlYXJuK3NvbWV0aGluZytvbit5b3VyK0xNUy4iLCJmb3JtYXQiOiIxIn0sImdsb2JhbCI6IjEiLCJpZCI6ODksImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MCwic3VibWl0YnV0dG9uIjoiTmV4dCIsImRpc2FibGV0YWJsZSI6MCwic3VtbWFyeSI6IlRoZStsZWFybmVyK3dobytzcGVudCttb3JlK3RpbWUrdG8rbGVhcm4rc29tZXRoaW5nK29uK3lvdXIrTE1TLiJ9fX0=]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Geographical]]></subpagepattern>
+<defaultregion><![CDATA[side-db-first]]></defaultregion>
+<defaultweight><![CDATA[10]]></defaultweight>
+<timecreated><![CDATA[1718790105]]></timecreated>
+<timemodified><![CDATA[1718790105]]></timemodified>
+<title><![CDATA[Top registrations]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[table]]></reporttype>
+<logo><![CDATA[405159870]]></logo>
+<tilescolourpicker><![CDATA[FFFFFF]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"><contextid><![CDATA[1]]></contextid>
+<pagetype><![CDATA[blocks-reportdashboard-dashboard]]></pagetype>
+<subpage><![CDATA[Geographical]]></subpage>
+<visible><![CDATA[1]]></visible>
+<region><![CDATA[side-db-second]]></region>
+<weight><![CDATA[0]]></weight>
+</position></report>

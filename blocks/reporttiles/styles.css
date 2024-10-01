@@ -1,0 +1,258 @@
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_tiles {
+  display: inline;
+  text-align: center;
+  width: 100%;
+  float: left;
+  overflow: hidden;
+  border-radius: 5px;
+  min-height: 85px;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_reporttile_container {
+  float: left;
+  width: 100%;
+  min-height: auto;
+}
+
+body.path-blocks-reportdashboard .dir-rtl .block_reporttiles .dashboard_reporttile_container {
+  float: left;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_reporttile_container.reporttile_with_link:hover {
+  box-shadow: 0 0 5px 2px #aaa;
+  -webkit-box-shadow: 0 0 5px 2px #aaa;
+  -moz-box-shadow: 0 0 5px 2px #aaa;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_details {
+  width: 31%;
+  text-align: left;
+  margin-right: 2%;
+  padding: 8px 0;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_img {
+  float: right;
+  width: 100px;
+  height: 109px;
+  margin-bottom: 10px;
+  max-width: 100px;
+  max-height: 109px;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_img img {
+  width: 100%;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_reporttile_container .reporttile_highlighter {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  background: #12445f;
+  min-height: 10px;
+  max-height: 10px;
+  width: 100%;
+}
+
+@media (max-width: 767px) {
+  body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_details {
+    width: 100%;
+    text-align: center;
+  }
+  body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_img {
+    width: 100%;
+    height: inherit;
+    margin-right: 0;
+    text-align: center;
+  }
+}
+
+body.path-blocks-reportdashboard .block_reporttiles span.dashboard_tiles_details > div {
+  font-size: 14px;
+}
+
+body.path-blocks-reportdashboard .block.block_reporttiles .card-block,
+body.path-blocks-reportdashboard .block.block_reporttiles .card-body {
+  padding: 0;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles div.reporttile_title {
+  font-size: 17px;
+  line-height: 20px;
+  word-break: break-all;
+  margin: 0;
+  padding: 5px;
+  text-align: left;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles div.tiles_information {
+  text-align: left;
+  font-size: 14px;
+  float: left;
+  width: 100%;
+  max-height: 220px;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles div.dashboard_tiles > span {
+  float: left;
+  width: 100%;
+}
+
+@media (max-width: 980px) {
+  body.path-blocks-reportdashboard .block_reporttiles .tiles_information td {
+    width: 100%;
+    float: left;
+  }
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .dashboard_tiles_img {
+  width: 27%;
+  height: 27%;
+  max-width: 75px;
+  max-height: 75px;
+  margin-bottom: 0;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .singleTileTable td {
+  text-align: center;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .singleTileTable td h1 {
+  font-weight: bold;
+  margin-top: 0.2rem;
+  font-size: 3rem;
+  color: inherit;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .singleTileTable td p {
+  margin-bottom: 0.5rem;
+}
+
+body.path-blocks-reportdashboard .block.block_reporttiles .dashboard_reporttile_container.reporttile_singlecontainer {
+  border-bottom: none;
+}
+
+body.path-blocks-reportdashboard .width-container .block.block_reporttiles {
+  margin-bottom: 12px;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .dashboard_tiles_img img {
+  width: 100%;
+  height: 100%;
+  opacity: 0.7;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content {
+  display: inline-block;
+  width: 100%;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .singleTileTable {
+  width: 70%;
+  float: left;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_tiles.dashboard_singletile {
+  min-height: 50px;
+}
+
+.block_reporttiles .dashboard_reporttile_container.reporttile_singlecontainer {
+  min-height: 60px;
+  padding-bottom: 0;
+}
+
+body.reportdashboard.path-blocks-reportdashboard .width-container.reports-act-graphs {
+  display: inline-block;
+}
+
+body.path-blocks-reportdashboard .width-container.reports-act-graphs .block.block_reportdashboard .plotreport_dashboard_container {
+  height: 325px;
+  overflow: inherit;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .no-overflow {
+  width: 70%;
+  float: left;
+}
+
+.block_reporttiles .tiles_information.singlerecord_tile .sigletile_content .no-overflow .singleTileTable {
+  width: 100%;
+}
+
+body.path-blocks-reporttiles #region-main {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+body.path-blocks-reportdashboard .block_reporttiles table .alert.alert-info {
+  padding-top: 0;
+  padding-bottom: 0;
+  width: 98%;
+}
+
+/* media query for only i pad */
+@media only screen and (device-width: 768px) {
+  body.path-blocks-reportdashboard .width-container.reports-act-graphs .width-4 {
+    width: 100%;
+    margin: auto;
+  }
+}
+
+body.path-blocks-reportdashboard .block_reporttiles .content.mt-3 {
+  margin: 0;
+}
+
+body#page-my-index .dashboard_reporttile_container .tiles_information table {
+  margin: 5% 0;
+  width: calc(100% - 60px);
+}
+
+body#page-my-index .dashboard_reporttile_container .tiles_information h1 {
+  text-align: center;
+}
+
+body.path-blocks-reportdashboard .reportdashboard .tiles_information table tr:nth-child(odd) td {
+  background-color: transparent;
+}
+
+body#page-my-index .dashboard_reporttile_container img#helpimg {
+  position: static;
+}
+
+body#page-my-index .block_reporttiles div.tiles_information {
+  float: initial;
+  margin: auto;
+}
+
+body#page-my-index .block_reporttiles .tiles_information.row table tr {
+  display: flex;
+  flex-direction: column;
+}
+
+body#page-my-index .block_reporttiles .tiles_information.row table {
+  margin: auto;
+  width: 100%;
+}
+
+body#page-my-index .block_reporttiles .dashboard_tiles span.dashboard_tiles_img > img {
+  width: 100%;
+  height: inherit;
+}
+
+body#page-my-index .block_reporttiles .dashboard_tiles .reporttile_title {
+  padding-left: 15px;
+}
+
+body#page-my-index .block_reporttiles .dashboard_reporttile_container span i,
+body.path-blocks-reportdashboard .block_reporttiles .dashboard_reporttile_container span i {
+  float: right;
+}
+
+body#page-my-index .block_reporttiles .dashboard_reporttile_container .dashboard_tiles {
+    width: 100%;
+    overflow: hidden;
+    padding: 5px 2%;
+    border-radius: 5px;
+    min-height: 85px;
+}

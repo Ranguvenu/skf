@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>js/jscolor.js</location>
+        <name>Color</name>
+        <description>Color</description>
+        <version>2.5.2</version>
+        <license>GPLv3</license>
+        <repository>https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.5.2/jscolor.js</repository>
+        <copyrights>
+            <copyright>2024 cdnjs, Jan Odvarko</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+    <library>
+        <location>js/jscolor.min.js</location>
+        <name>Color</name>
+        <description>Color</description>
+        <version>2.5.2</version>
+        <license>GPLv3</license>
+        <repository>https://cdnjs.cloudflare.com/ajax/libs/jscolor/2.5.2/jscolor.min.js</repository>
+        <copyrights>
+            <copyright>2024 cdnjs, Jan Odvarko</copyright>
+        </copyrights>
+        <customised/>
+    </library>
+</libraries>

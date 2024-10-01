@@ -1,0 +1,180 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_reportdashboard/dashboardheader
+
+    Describe the accesseble options for the role on the dashboard
+
+    Example context (json):
+    {
+    }
+}}
+<div id="dashboard-header{{#reportdashoardclass}}{{reportdashoardclass}}{{/reportdashoardclass}}">
+    {{#configuredinstances}}
+    {{#coursedashboard}}
+        {{#courselist.0}}
+        <span class="coursefilter">
+            <label>{{#str}}course{{/str}}</label>
+            <select name="filter_courses" class="dashboardcourses" id="dashboardcourses" data-select2-ajax="1" data-action="filter_courses" data-role="{{dashboardrole}}">
+                {{#courselist}}
+                    <option value="{{id}}">{{fullname}}</option>
+                {{/courselist}}
+            </select>
+        </span>
+        {{/courselist.0}}
+    {{/coursedashboard}}
+    {{/configuredinstances}}
+    <div id="widgetaction" class="d-flex justify-content-end">
+        <div class='d-flex' >
+            <span class='left_buttons'>
+                {{#issiteadmin}}
+                    {{#reportwidgetstatus}}
+                        <span class="dropdown nav-item pull-right">
+                            <a class="dropdown-toggle htitle" id="addwidgets{{reportinstance}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="tooltiptext tooltip-top">{{#str}}addwidgettile, block_reportdashboard{{/str}}</span>
+                                {{#pix}}addwidget, block_learnerscript, {{#str}}addwidgets, block_reportdashboard{{/str}}{{/pix}}
+                            </a>
+                            <ul class="menu dropdown-menu dropdown-menu-right dropdown-content" aria-labelledby="addwidgets{{reportinstance}}">
+                                {{#reportdashboardstatus}}
+                                    <li role="presentation">
+                                        <a class="dropdown-item menu-action addwidgettodashboard">{{#str}}addwidgets, block_reportdashboard{{/str}}</a>
+                                    </li>
+                                {{/reportdashboardstatus}}
+                                {{#reporttilestatus}}
+                                    <li role="presentation">
+                                        <a class="dropdown-item menu-action addtilestodashboard">{{#str}}addtiles, block_reportdashboard{{/str}}</a>
+                                    </li>
+                                {{/reporttilestatus}}
+                            </ul>
+                        </span>
+                    {{/reportwidgetstatus}}
+                {{/issiteadmin}}
+                <div class="dropdown switchdashboard_dropdown nav-item pull-right">
+                    <a role='button' class="dropdown-toggle htitle" id="switchdashboard{{reportinstance}}" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <span class="tooltiptext tooltip-top">{{#str}}switchdashboard, block_reportdashboard{{/str}}</span>
+                        {{#pix}}switchdashboard, block_learnerscript, {{#str}}switchdashboard, block_reportdashboard{{/str}}{{/pix}}
+                    </a>
+                    <ul class="menu dropdown-menu dropdown-menu-right dropdown-content" aria-labelledby="switchdashboard{{reportinstance}}">
+                        {{#get_dashboardname}}
+                        <li class="dashboardinstances">
+                            {{#editingon}}
+                            <span class="edit_delete_icons">
+                                <span class="inplaceeditable d-flex align-items-center inplaceeditable-text" data-inplaceeditable="1" data-component="block_reportdashboard" data-itemtype="dashboardname" data-prevoiusdashboardname='{{name}}' data-pagetypepattern='{{pagetypepattern}}' data-value='{{name}}' data-editlabel="New name for Dashboard" data-type="text" data-options="" data-roleshortname= '{{dashboardrole}}'>
+                                    
+                                    <a href='{{config.wwwroot}}/blocks/reportdashboard/dashboard.php?dashboardurl={{name}}&role={{dashboardrole}}&contextlevel={{dashboardcontextlevel}}'><span class="instancename">{{name}}<span class="accesshide"> Forum</span></span></a>
+                                    {{#default}}
+                                    <span id="editimg" class="ml-auto mr-1 subaction_link updatedashboardtitle" title="Edit title" aria-label="Edit title"
+                                    data-name="{{name}}" data-dashboardrole="{{dashboardrole}}">
+                                        {{#pix}} i/edit, core, {{#str}}edit, block_reportdashboard{{/str}} {{/pix}}
+                                    </span>
+
+                                    <span id="deleteimg" title="Delete" class="subaction_link deletedashboard" alt="delete" data-instance="{{name}}"
+                                    data-random = "{{random}}">
+                                        {{#pix}} i/delete, core, {{#str}}delete, block_reportdashboard{{/str}} {{/pix}}
+                                    </span>
+                                    {{/default}}
+                                </span>
+                            </span>
+                            <div class="instance_popup {{name}}" style="display:none;" id="dashboard_delete_popup_{{random}}">{{#str}}dashboarddelete, block_reportdashboard{{/str}}
+                                <div id="confirm_butns">
+                                    <span class="knowmore cpointer"><a id="yesbutton" href='{{config.wwwroot}}/blocks/reportdashboard/dashboard.php?delete={{name}}&role={{dashboardrole}}&dashboardurl={{dashboardurl}}&contextlevel={{dashboardcontextlevel}}&sesskey={{sesskey}}' class="btn btn-primary yes_button text-white">{{#str}}yes{{/str}}</a></span>
+                                    <span class="knowmore cpointer"><a id="nobutton" 
+                                        data-random = {{random}} class="btn btn-light">{{#str}}no{{/str}}</a></span>
+                                </div>
+                            </div>
+                            {{/editingon}}
+                            {{^editingon}}
+                            <a href='{{config.wwwroot}}/blocks/reportdashboard/dashboard.php?dashboardurl={{name}}&role={{dashboardrole}}&contextlevel={{dashboardcontextlevel}}'><span class="instancename">{{name}}<span class="accesshide"> Forum</span></span></a>
+                            {{/editingon}}
+                        </li>
+                        {{/get_dashboardname}}
+                    </ul>
+                </div>
+            </span>
+        </div>
+        <span class="right_buttons">
+            {{#issiteadmin}}
+                <a class='htitle' href="{{config.wwwroot}}/blocks/learnerscript/editreport.php" target="_blank">
+                    <span class="tooltiptext tooltip-top">{{#str}}addreport, block_learnerscript{{/str}}</span>
+                    {{#pix}}addreport, block_learnerscript, {{#str}}addreport, block_learnerscript{{/str}}{{/pix}}
+                </a>
+                <span class='span_adddashboard htitle addnewdashboard'>
+                    <span class="tooltiptext tooltip-top">{{#str}}addnewdashboard, block_reportdashboard{{/str}}</span>
+                    {{#pix}}adddashboard, block_learnerscript, {{#str}}addnewdashboard, block_reportdashboard{{/str}}{{/pix}}
+                </span>
+            {{/issiteadmin}}
+            {{^issiteadmin}}
+                {{^managerrole}}
+                    <a class='htitle' href="{{config.wwwroot}}/blocks/learnerscript/reports.php?role={{role}}&contextlevel={{contextlevel}}" target="_blank">
+                        <span class="tooltiptext tooltip-top">{{#str}}reports, block_learnerscript{{/str}}</span>
+                        {{#pix}}managereport, block_learnerscript, {{#str}}managereport, block_learnerscript{{/str}}{{/pix}}
+                    </a>
+                {{/managerrole}}
+            {{/issiteadmin}}
+            {{#issiteadmin}}
+                <a class='htitle' href="{{config.wwwroot}}/blocks/learnerscript/managereport.php" target="_blank">
+                    <span class="tooltiptext tooltip-top">{{#str}}managereports, block_learnerscript{{/str}}</span>
+                    {{#pix}}managereport, block_learnerscript, {{#str}}managereports, block_learnerscript{{/str}}{{/pix}}
+                </a>
+            {{/issiteadmin}}
+            {{#managerrole}}
+                {{^issiteadmin}}
+                    <a class='htitle' href="{{config.wwwroot}}/blocks/learnerscript/managereport.php" target="_blank">
+                        <span class="tooltiptext tooltip-top">{{#str}}managereports, block_learnerscript{{/str}}</span>
+                        {{#pix}}managereport, block_learnerscript, {{#str}}managereports, block_learnerscript{{/str}}{{/pix}}
+                    </a>
+                {{/issiteadmin}}
+            {{/managerrole}}
+            {{> block_reportdashboard/switchrole }}
+        </span>
+    </div>
+    <div id='internalbsm' style="display: none;">
+        <div id='innerwrapper'>
+            <div class='sidenav'>
+                <ul id="dashboards_menu">
+                </ul>
+            </div>
+        </div>
+    </div>
+    {{^configuredinstances}}
+    <div class="alert alert-info">{{#str}}nolsinstance, block_learnerscript{{/str}}</div>
+    {{/configuredinstances}}
+</div>
+<div class="newreport_dashboard" style="display:none;">
+    <form action="{{config.wwwroot}}/blocks/reportdashboard/dashboard.php" id="createdashbaord_form">
+        <div class="form-group row fitem has-danger">
+            <div class="col-md-3">
+                <label class="col-form-label d-inline" for="id_dashboard">
+                    {{#str}}dashboardname, block_reportdashboard{{/str}}
+                </label>
+            </div>
+            <div class="col-md-9 form-inline felement" data-fieldtype="text">
+                <input type="hidden" name="role" value="{{dashboardrole}}">
+                <input type="hidden" name="contextlevel" value="{{dashboardcontextlevel}}">
+                <input type="text" class="form-control form-control-danger" name="dashboardurl" id="id_dashboard" placeholder="Maximum 16 Characters" value="" size="20" maxlength="16">
+                <div class="form-control-feedback" id="id_error_dashboard" style="display: none;">{{#str}}dashboard_name, block_reportdashboard{{/str}}</div>
+                <div class="form-control-feedback" id="id_error_dashboard_nospaces" style="display: none;">{{#str}}dashboardnospaces, block_reportdashboard{{/str}}</div>
+            </div>
+        </div>
+        <div class="form-group row fitem dashboard_submit">
+            <div class="col-md-9 form-inline felement" data-fieldtype="submit">
+                <input type="submit" class="btn btn-primary" id="id_submitbutton" value="Save Changes">
+            </div>
+        </div>
+    </form>
+</div>
+

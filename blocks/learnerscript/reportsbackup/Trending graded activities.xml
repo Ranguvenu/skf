@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Trending graded activities]]></name>
+<summary><![CDATA[]]></summary>
+<type><![CDATA[gradedactivity]]></type>
+<components><![CDATA[eyJjb2x1bW5zIjp7ImVsZW1lbnRzIjpbeyJpZCI6Im9rV1BveEVyUHR6UXFiSyIsInBsdWdpbm5hbWUiOiJncmFkZWRhY3Rpdml0eSIsInBsdWdpbmZ1bGxuYW1lIjoiR3JhZGVkK0FjdGl2aXRpZXMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJNb2R1bGUrbmFtZSIsImNvbHVtbiI6Im1vZHVsZW5hbWUiLCJoZWFkaW5nIjoiZ3JhZGVkYWN0aXZpdHkifX0seyJpZCI6ImxrWXdQaGJaQmRpb2xIdyIsInBsdWdpbm5hbWUiOiJncmFkZWRhY3Rpdml0eSIsInBsdWdpbmZ1bGxuYW1lIjoiR3JhZGVkK0FjdGl2aXRpZXMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJIaWdoZXN0K2dyYWRlIiwiY29sdW1uIjoiaGlnaGVzdGdyYWRlIiwiaGVhZGluZyI6ImdyYWRlZGFjdGl2aXR5In19LHsiaWQiOiJlclZOOVNqcXlDMzVwYlciLCJwbHVnaW5uYW1lIjoiZ3JhZGVkYWN0aXZpdHkiLCJwbHVnaW5mdWxsbmFtZSI6IkdyYWRlZCtBY3Rpdml0aWVzIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoiQXZlcmFnZStncmFkZSIsImNvbHVtbiI6ImF2ZXJhZ2VncmFkZSIsImhlYWRpbmciOiJncmFkZWRhY3Rpdml0eSJ9fSx7ImlkIjoiaVA3eTJOTG1mSng1eW9MIiwicGx1Z2lubmFtZSI6ImdyYWRlZGFjdGl2aXR5IiwicGx1Z2luZnVsbG5hbWUiOiJHcmFkZWQrQWN0aXZpdGllcyIsInN1bW1hcnkiOiIiLCJ0eXBlIjoic2VsZWN0ZWRjb2x1bW5zIiwiZm9ybWRhdGEiOnsidmFsdWUiOnRydWUsImNvbHVtbmFtZSI6Ikxvd2VzdCtncmFkZSIsImNvbHVtbiI6Imxvd2VzdGdyYWRlIiwiaGVhZGluZyI6ImdyYWRlZGFjdGl2aXR5In19LHsiaWQiOiJKaWZZZDdxeHhkandsd1EiLCJwbHVnaW5uYW1lIjoiZ3JhZGVkYWN0aXZpdHkiLCJwbHVnaW5mdWxsbmFtZSI6IkdyYWRlZCtBY3Rpdml0aWVzIiwic3VtbWFyeSI6IiIsInR5cGUiOiJzZWxlY3RlZGNvbHVtbnMiLCJmb3JtZGF0YSI6eyJ2YWx1ZSI6dHJ1ZSwiY29sdW1uYW1lIjoiVG90YWwrVGltZVNwZW50IiwiY29sdW1uIjoidG90YWx0aW1lc3BlbnQiLCJoZWFkaW5nIjoiZ3JhZGVkYWN0aXZpdHkifX0seyJpZCI6InZJaHJYck43T2FGbE9nayIsInBsdWdpbm5hbWUiOiJncmFkZWRhY3Rpdml0eSIsInBsdWdpbmZ1bGxuYW1lIjoiR3JhZGVkK0FjdGl2aXRpZXMiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJOby4rb2Yrdmlld3MiLCJjb2x1bW4iOiJudW12aWV3cyIsImhlYWRpbmciOiJncmFkZWRhY3Rpdml0eSJ9fV19LCJmaWx0ZXJzIjp7ImVsZW1lbnRzIjpbXX0sImNhbGN1bGF0aW9ucyI6eyJlbGVtZW50cyI6bnVsbH0sIm9yZGVyaW5nIjp7ImVsZW1lbnRzIjpudWxsfSwicGxvdCI6eyJlbGVtZW50cyI6W3siaWQiOiJrTHVQQVNCeEkybDluMkEiLCJmb3JtZGF0YSI6eyJjaGFydG5hbWUiOiJHcmFkZSIsInNlcmllaWQiOiJtb2R1bGVuYW1lIiwieWF4aXMiOlsiYXZlcmFnZWdyYWRlIl0sInNob3dsZWdlbmQiOiIwIiwiZGF0YWxhYmVscyI6IjEiLCJjYWxjcyI6IiIsImNvbHVtbnNvcnQiOiJhdmVyYWdlZ3JhZGUiLCJzb3J0aW5nIjoiREVTQyIsImxpbWl0IjoiMTAiLCJpZCI6ImtMdVBBU0J4STJsOW4yQSJ9LCJwbHVnaW5uYW1lIjoiYmFyIiwicGx1Z2luZnVsbG5hbWUiOiJCYXIiLCJzdW1tYXJ5IjoiQStiYXIrZ3JhcGgrd2l0aCttdWx0aXBsZStzZXJpZXMrb2YrZGF0YSJ9LHsiaWQiOiJGd1d6dDlzWml6Z0tQS2kiLCJmb3JtZGF0YSI6eyJjaGFydG5hbWUiOiJUb3RhbCtUaW1lU3BlbnQiLCJzZXJpZWlkIjoibW9kdWxlbmFtZSIsInlheGlzIjpbInRvdGFsdGltZXNwZW50Il0sInNob3dsZWdlbmQiOiIwIiwiZGF0YWxhYmVscyI6IjEiLCJjYWxjcyI6IiIsImNvbHVtbnNvcnQiOiJtb2R1bGVuYW1lIiwic29ydGluZyI6IkRFU0MiLCJsaW1pdCI6IjEwIiwiaWQiOiJGd1d6dDlzWml6Z0tQS2kifSwicGx1Z2lubmFtZSI6ImxpbmUiLCJwbHVnaW5mdWxsbmFtZSI6IkJhciIsInN1bW1hcnkiOiJBK2JhcitncmFwaCt3aXRoK211bHRpcGxlK3NlcmllcytvZitkYXRhIn1dfX0=]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[1]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Course]]></subpagepattern>
+<defaultregion><![CDATA[center-first]]></defaultregion>
+<defaultweight><![CDATA[-2]]></defaultweight>
+<timecreated><![CDATA[1718790112]]></timecreated>
+<timemodified><![CDATA[1718790112]]></timemodified>
+<title><![CDATA[Trending graded activities]]></title>
+<reportcontenttype><![CDATA[kLuPASBxI2l9n2A]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[12445f]]></tilescolourpicker>
+<disableheader><![CDATA[1]]></disableheader>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050702.2"><visible><![CDATA[1]]></visible>
+<name><![CDATA[No login courses]]></name>
+<summary><![CDATA[Total Courses: The total number of courses a student/teacher enrolled to. No Login Courses: The number of no login courses by a student/teacher.]]></summary>
+<type><![CDATA[statistics]]></type>
+<components><![CDATA[eyJwZXJtaXNzaW9ucyI6eyJjb25maWciOnsiY29uZGl0aW9uZXhwcjEiOiIiLCJjb25kaXRpb25leHByMiI6IiUyOGMxJTI5IiwiY29uZGl0aW9uZXhwciI6IiUyOGMxJTI5In0sImVsZW1lbnRzIjpbeyJpZCI6InlkYXRob2FGMVFNZThURCIsImZvcm1kYXRhIjp7ImNvbnRleHRsZXZlbCI6IjUwIiwic3VibWl0YnV0dG9uIjoiQWRkIiwicm9sZWlkIjoiMyJ9LCJwbHVnaW5uYW1lIjoicm9sZWluY291cnNlIiwicGx1Z2luZnVsbG5hbWUiOiJVc2VyK3dpdGgrdGhlK3NlbGVjdGVkK3JvbGUlMkZzIiwic3VtbWFyeSI6ImVkaXRpbmd0ZWFjaGVyK2F0K0NvdXJzZStsZXZlbCJ9XX0sImN1c3RvbXNxbCI6eyJjb25maWciOnsibmFtZSI6Ik5vK2xvZ2luK2NvdXJzZXMiLCJ0eXBlIjoic3RhdGlzdGljcyIsInF1ZXJ5c3FsIjoiU0VMRUNUKyUyOFNFTEVDVCtDT1VOVCUyOERJU1RJTkNUK2MuaWQlMjkrJTBEJTBBRlJPTStwcmVmaXhfdXNlcit1KyUwRCUwQUpPSU4rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrcmErT04rcmEudXNlcmlkKyUzRCt1LmlkKyUwRCUwQUpPSU4rcHJlZml4X2NvbnRleHQrQVMrY3R4K09OK2N0eC5pZCslM0QrcmEuY29udGV4dGlkKyUwRCUwQUpPSU4rcHJlZml4X2NvdXJzZStjK09OK2MuaWQrJTNEK2N0eC5pbnN0YW5jZWlkKyUwRCUwQUpPSU4rcHJlZml4X3JvbGUrcitPTityLmlkKyUzRCtyYS5yb2xlaWQrJTI1JTI1REFTSEJPQVJEUk9MRSUzQXIuc2hvcnRuYW1lJTI1JTI1KyUwRCUwQVdIRVJFK3JhLnVzZXJpZCslM0QrJTI1JTI1VVNFUklEJTI1JTI1JTI5K0FTKyUyMlRvdGFsK2NvdXJzZXMlMjIlMkMlMjhTRUxFQ1QrQ09VTlQlMjhESVNUSU5DVCtjLmlkJTI5KyUwRCUwQUZST00rcHJlZml4X3VzZXIrdSslMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK3JhK09OK3JhLnVzZXJpZCslM0QrdS5pZCslMEQlMEFKT0lOK3ByZWZpeF9jb250ZXh0K0FTK2N0eCtPTitjdHguaWQrJTNEK3JhLmNvbnRleHRpZCslMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtjdHguaW5zdGFuY2VpZCslMEQlMEFKT0lOK3ByZWZpeF9yb2xlK3IrT04rci5pZCslM0QrcmEucm9sZWlkKyUyNSUyNURBU0hCT0FSRFJPTEUlM0FyLnNob3J0bmFtZSUyNSUyNSslMEQlMEFXSEVSRStyYS51c2VyaWQrJTNEKyUyNSUyNVVTRVJJRCUyNSUyNStBTkQrK2MuaWQrTk9UK0lOKyUyOFNFTEVDVCtESVNUSU5DVCt1bC5jb3Vyc2VpZCtBUythY2Vzc2VkKyUwRCUwQUZST00rcHJlZml4X3VzZXIrdSslMEQlMEFKT0lOK3ByZWZpeF9yb2xlX2Fzc2lnbm1lbnRzK3JhK09OK3JhLnVzZXJpZCslM0QrdS5pZCslMEQlMEFKT0lOK3ByZWZpeF9jb250ZXh0K0FTK2N0eCtPTitjdHguaWQrJTNEK3JhLmNvbnRleHRpZCslMEQlMEFKT0lOK3ByZWZpeF9jb3Vyc2UrYytPTitjLmlkKyUzRCtjdHguaW5zdGFuY2VpZCslMEQlMEFKT0lOK3ByZWZpeF9yb2xlK3IrT04rci5pZCslM0QrcmEucm9sZWlkKyslMEQlMEFKT0lOK3ByZWZpeF91c2VyX2xhc3RhY2Nlc3MrdWwrT04rdWwuY291cnNlaWQrJTNEK2MuaWQrJTI1JTI1REFTSEJPQVJEUk9MRSUzQXIuc2hvcnRuYW1lJTI1JTI1JTBEJTBBV0hFUkUrdWwudXNlcmlkKyUzRCslMjUlMjVVU0VSSUQlMjUlMjUrJTI5JTI5K0FTKyUyMk5vK2xvZ2luK2NvdXJzZXMlMjIiLCJkZXNjcmlwdGlvbiI6eyJ0ZXh0IjoiVG90YWwrQ291cnNlcyUzQStUaGUrdG90YWwrbnVtYmVyK29mK2NvdXJzZXMrYStzdHVkZW50JTJGdGVhY2hlcitlbnJvbGxlZCt0by4rTm8rTG9naW4rQ291cnNlcyUzQStUaGUrbnVtYmVyK29mK25vK2xvZ2luK2NvdXJzZXMrYnkrYStzdHVkZW50JTJGdGVhY2hlci4iLCJmb3JtYXQiOiIxIn0sImdsb2JhbCI6IjEiLCJpZCI6NjcsImNvdXJzZWlkIjoxLCJtZm9ybV9pc2V4cGFuZGVkX2lkX2FkdmFuY2Vkb3B0aW9ucyI6MCwic3VibWl0YnV0dG9uIjoiTmV4dCIsImRpc2FibGV0YWJsZSI6MCwic3VtbWFyeSI6IlRvdGFsK0NvdXJzZXMlM0ErVGhlK3RvdGFsK251bWJlcitvZitjb3Vyc2VzK2Erc3R1ZGVudCUyRnRlYWNoZXIrZW5yb2xsZWQrdG8uK05vK0xvZ2luK0NvdXJzZXMlM0ErVGhlK251bWJlcitvZitubytsb2dpbitjb3Vyc2VzK2J5K2Erc3R1ZGVudCUyRnRlYWNoZXIuIn19fQ==]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[2]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050702.2"><blockname><![CDATA[reporttiles]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard-editingteacher_50]]></pagetypepattern>
+<subpagepattern><![CDATA[Dashboard]]></subpagepattern>
+<defaultregion><![CDATA[center-second]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1721202021]]></timecreated>
+<timemodified><![CDATA[1721202021]]></timemodified>
+<title><![CDATA[No login courses]]></title>
+<reportcontenttype><![CDATA[]]></reportcontenttype>
+<reporttype><![CDATA[bar]]></reporttype>
+<logo><![CDATA[351395784]]></logo>
+<tilescolourpicker><![CDATA[12445f]]></tilescolourpicker>
+<tileformat><![CDATA[fill]]></tileformat>
+<reportduration><![CDATA[all]]></reportduration>
+<tilescolour><![CDATA[000000]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050702.2"></position></report>

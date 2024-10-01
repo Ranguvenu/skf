@@ -1,0 +1,94 @@
+{{!
+    This file is part of Moodle - http://moodle.org/
+
+    Moodle is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    Moodle is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
+}}
+{{!
+    @template block_learnerscript/scheduledusers
+
+    Schedule a report for sending reports to different users in different formats. 
+
+    Example context (json):
+    {
+    }
+}}
+<div class='user_courses' id='usersdata{{reportid}}'>
+    <form class='assignform mform' method='post' name='form_name'>
+        <div class='form-group' style='margin-bottom:5%;'>
+            <div id='fitem_id_selectrole{{reportid}}' class='fitem required fitem_fselect'>
+                <div class='fitemtitle'>
+                    <label for='id_selectrole{{reportid}}'>{{# str}} role {{/ str}}<span class="req">{{#reqimage}}<img src="{{reqimage}}" alt="">{{/reqimage}} </span> </label>
+                </div>
+                <div class="felement fselect" data-fieldtype="select">
+                    <select id="id_selectrole{{reportid}}" data-id="{{reportid}}" data-class="rolereq" class="selectrole{{reportid}}" data-element="role" data-placeholder={{# str }} select_role, block_learnerscript {{/ str }} name="role" >
+                        {{# roleslist}}
+                        <option id="slectedroles" value="{{key}}" {{selected}}>{{value}}</option>
+                        {{/ roleslist}}
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div>
+            <input type="hidden" name="sesskey" value=" . sesskey() . " >
+            <input type="hidden" name="reportid" class="reportid" value="{{reportid}}" >
+            <div id="sch_role_users" class="sch_role_users generaltable">
+                <div class="manage_usersdiv">
+                    <div id="existingcell">
+                        <p>
+                            <label for="removeselect">{{# str}} extusers, core_role {{/ str}}</label>
+                        </p>
+                        <div class="userselector" id="removeselect_wrapper">
+                            <select name="removeselect[]" id="removeselect{{reportid}}" class="removeselect form-control no-overflow" multiple="multiple" size="20">
+                                {{# selectedusers }}
+                                <option value="{{key}}" selected>{{value}}</option>
+                                {{/ selectedusers}}
+                            </select>
+                        </div>
+                    </div>
+						<div class="add-remove-controls">
+							<span class="sub-add-remove-controls">
+    							<span id='addcontrols'>
+    								<button type="button" class="btn btn-secondary font-11 pull-right selectschusers" id="add"
+    										onclick='(function(e){ $("#addselect{{reportid}}").find("option:selected").remove().appendTo("#removeselect{{reportid}}").attr("selected", "selected"); })(event)' > {{# str }} add, block_learnerscript {{/ str}}  {{# pix }} add {{/ pix}}</button>
+    							</span>
+    							<span id="removecontrols">
+    								<button type="button" class="btn btn-secondary font-11 pull-right selectschusers" id="remove"
+    										onclick='(function(e){ $("#removeselect{{reportid}}").find("option:selected").remove().appendTo("#addselect{{reportid}}").attr("selected", "selected"); })(event)'>{{# str}} remove {{/ str}} >></button>
+    							</span>
+                            </span>
+						</div>
+                        <div id="potentialcell">
+                            <p>
+                                <label for="addselect">{{# str}} potusers, core_role {{/ str }}</label>
+                            </p>
+                            <div class="userselector" id="addselect_wrapper">
+                                <select name="addselect[]" id="addselect{{reportid}}" class="addselect form-control no-overflow" multiple="multiple" size="20">
+                                </select>
+                                <div class="form-inline pos-r">
+                                    <input type="text" class="searchusers form-control" placeholder={{# str }} search, block_learnerscript {{/ str}} name="addselect_searchtext"
+                                    onkeyup='(function(e){ require("block_learnerscript/schedule").getroleusers({reportid:{{reportid}}, type:"add", scheduleid:{{scheduleid}}}) })(event)' id="addselect_searchtext" size="15" value="">
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+            <div class="add_selected_users_container">
+                <button type="button" class="btn-lg" id="btn_save{{reportid}}"
+                		onclick='(function(e){ require("block_learnerscript/schedule").bulkmanageschusers({reportid: {{reportid}}, reportinstance: {{reportinstance}}}) })(event)'>{{# str}} addusers, block_learnerscript {{/ str}}</button>
+            </div>
+        </div>
+    </form>
+    </div>
+    <div class="usersperminet" id="latestusers{{reportid}}" style="display:none;width:1000px;">
+    </div>

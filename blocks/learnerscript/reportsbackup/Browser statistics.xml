@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024050701"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Browser statistics]]></name>
+<summary><![CDATA[This report shows you the browser statistics like which browser is popularly used to access your LMS site – the browsers such as Internet Explorer, Safari, Chrome, Firefox, etc.]]></summary>
+<type><![CDATA[sql]]></type>
+<components><![CDATA[eyJjdXN0b21zcWwiOnsiY29uZmlnIjp7Im5hbWUiOiJCcm93c2VyK3N0YXRpc3RpY3MiLCJ0eXBlIjoic3FsIiwicXVlcnlzcWwiOiJTRUxFQ1QrYnJvd3NlciUyQytDT1VOVCUyOGJyb3dzZXIlMjkrYXMrbnVtYmVyb2Z1c2VycytGUk9NK3ByZWZpeF9ibG9ja19kZXZpY2VscyslMEQlMEFXSEVSRSslMEQlMEExKyUzRCsxK0FORCticm93c2VyKyUyMSUzRCslMjcrJTI3JTBEJTBBQU5EK3RpbWVtb2RpZmllZCtCRVRXRUVOKyUyNSUyNUxTX1NUQVJUREFURSUyNSUyNStBTkQrJTI1JTI1TFNfRU5EREFURSUyNSUyNSslMEQlMEElMjUlMjVTRUFSQ0glM0Ficm93c2VyJTI1JTI1JTBEJTBBR1JPVVArQlkrYnJvd3NlcitPUkRFUitCWStudW1iZXJvZnVzZXJzK0RFU0MiLCJkZXNjcmlwdGlvbiI6eyJ0ZXh0IjoiVGhpcytyZXBvcnQrc2hvd3MreW91K3RoZSticm93c2VyK3N0YXRpc3RpY3MrbGlrZSt3aGljaCticm93c2VyK2lzK3BvcHVsYXJseSt1c2VkK3RvK2FjY2Vzcyt5b3VyK0xNUytzaXRlKyVFMiU4MCU5Myt0aGUrYnJvd3NlcnMrc3VjaCthcytJbnRlcm5ldCtFeHBsb3JlciUyQytTYWZhcmklMkMrQ2hyb21lJTJDK0ZpcmVmb3glMkMrZXRjLiIsImZvcm1hdCI6IjEifSwiZ2xvYmFsIjoiMSIsImlkIjoyMCwiY291cnNlaWQiOjEsIm1mb3JtX2lzZXhwYW5kZWRfaWRfYWR2YW5jZWRvcHRpb25zIjoxLCJzdWJtaXRidXR0b24iOiJOZXh0IiwiZGlzYWJsZXRhYmxlIjowLCJzdW1tYXJ5IjoiVGhpcytyZXBvcnQrc2hvd3MreW91K3RoZSticm93c2VyK3N0YXRpc3RpY3MrbGlrZSt3aGljaCticm93c2VyK2lzK3BvcHVsYXJseSt1c2VkK3RvK2FjY2Vzcyt5b3VyK0xNUytzaXRlKyVFMiU4MCU5Myt0aGUrYnJvd3NlcnMrc3VjaCthcytJbnRlcm5ldCtFeHBsb3JlciUyQytTYWZhcmklMkMrQ2hyb21lJTJDK0ZpcmVmb3glMkMrZXRjLiJ9fSwiY29sdW1ucyI6eyJlbGVtZW50cyI6W3siaWQiOiJYSHF4ellEZ0tnN0tZSDgiLCJwbHVnaW5uYW1lIjoic3FsIiwicGx1Z2luZnVsbG5hbWUiOiJTUUwiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJCcm93c2VyIiwiY29sdW1uIjoiYnJvd3NlciIsImhlYWRpbmciOiIiLCJ3cmFwIjoiIiwiYWxpZ24iOiIiLCJzaXplIjoiIn19LHsiaWQiOiJxRXNSYkJDSHEyRXFXODAiLCJwbHVnaW5uYW1lIjoic3FsIiwicGx1Z2luZnVsbG5hbWUiOiJTUUwiLCJzdW1tYXJ5IjoiIiwidHlwZSI6InNlbGVjdGVkY29sdW1ucyIsImZvcm1kYXRhIjp7InZhbHVlIjp0cnVlLCJjb2x1bW5hbWUiOiJOdW1iZXIrb2Yrdmlld3MiLCJjb2x1bW4iOiJudW1iZXJvZnVzZXJzIiwiaGVhZGluZyI6IiIsIndyYXAiOiIiLCJhbGlnbiI6ImNlbnRlciIsInNpemUiOiIifX1dfSwiZmlsdGVycyI6eyJlbGVtZW50cyI6W119LCJjYWxjdWxhdGlvbnMiOnsiZWxlbWVudHMiOm51bGx9LCJvcmRlcmluZyI6eyJlbGVtZW50cyI6bnVsbH0sInBsb3QiOnsiZWxlbWVudHMiOlt7ImlkIjoibzNvTFZiV2M4Ulk4V000IiwiZm9ybWRhdGEiOnsiY2hhcnRuYW1lIjoiQnJvd3NlcitzdGF0cyIsImFyZWFuYW1lIjoiYnJvd3NlciIsImFyZWF2YWx1ZSI6Im51bWJlcm9mdXNlcnMiLCJzZXJpZXNsYWJlbCI6IiIsInNob3dsZWdlbmQiOiIxIiwiZGF0YWxhYmVscyI6IjAiLCJjb2x1bW5zb3J0IjoiYnJvd3NlciIsInNvcnRpbmciOiIiLCJsaW1pdCI6IiIsImlkIjoibzNvTFZiV2M4Ulk4V000In0sInBsdWdpbm5hbWUiOiJwaWUiLCJwbHVnaW5mdWxsbmFtZSI6IlBpZSIsInN1bW1hcnkiOiJBK3BpZStncmFwaCJ9XX19]]></components>
+<export><![CDATA[]]></export>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<disabletable><![CDATA[0]]></disabletable>
+<instance version="2024050701"><blockname><![CDATA[reportdashboard]]></blockname>
+<parentcontextid><![CDATA[1]]></parentcontextid>
+<showinsubcontexts><![CDATA[0]]></showinsubcontexts>
+<requiredbytheme><![CDATA[0]]></requiredbytheme>
+<pagetypepattern><![CDATA[blocks-reportdashboard-dashboard]]></pagetypepattern>
+<subpagepattern><![CDATA[Geographical]]></subpagepattern>
+<defaultregion><![CDATA[reports-db-one]]></defaultregion>
+<defaultweight><![CDATA[0]]></defaultweight>
+<timecreated><![CDATA[1718790043]]></timecreated>
+<timemodified><![CDATA[1718790043]]></timemodified>
+<title><![CDATA[Browser statistics]]></title>
+<reportcontenttype><![CDATA[o3oLVbWc8RY8WM4]]></reportcontenttype>
+<reporttype><![CDATA[]]></reporttype>
+<logo><![CDATA[]]></logo>
+<tilescolourpicker><![CDATA[12445f]]></tilescolourpicker>
+<disableheader><![CDATA[0]]></disableheader>
+<reportduration><![CDATA[year]]></reportduration>
+<tilescolour><![CDATA[]]></tilescolour>
+<url><![CDATA[]]></url>
+</instance><position version="2024050701"></position></report>
